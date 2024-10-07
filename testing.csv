@@ -1,0 +1,943 @@
+cust,segment,vertical,sub_vertical,country,bookings
+9fe4afc7766555d7765c6983fe88319a,Commercial,Professional Services,Other (Professional Services),UNITED STATES,3475
+a0c26a1ac845ac77de66ca4953eb2a8b,Commercial,Technical Services,Other (Technical Services),USA,26430
+67f60ac5ffe00b48f074f10a990ba8c2,Commercial,Technical Services,Other (Technical Services),UNITED STATES,27745
+fe3952af200e5c2fb252c95380b6eaff,Commercial,Professional Services,Consulting Non-Technical,UNITED STATES,214635
+7c8e5a7753d3b9082540720844497825,Enterprise,Health Care,Providers,UNITED STATES,11228
+3245ee45ea4d07d9aed9e7a5a9047467,Commercial,Technical Services,Other (Technical Services),INDIA,1495
+5a3817024fefa77cf02a6bb87ac8e7c2,Commercial,Professional Services,Membership organizations,MEXICO,11001
+849fff41881003e3b0d00172c4bc5fa4,Commercial,Wholesale/Distribution,Wholesale/Distribution,USA,54858
+c47b8d6f4031809c1073e55e1a6a6b44,Commercial,Professional Services,Consulting Non-Technical,ITALY,15992
+e2f9d19ac309a981f1c2bbd141b2f91b,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,CHINA,8008
+6fa0bac18f66fc6d6a639ac81e34e29c,Enterprise,Retail,Other (Retail),UNITED STATES,105117
+35e42d0772c9dd1fe1cacb8ea8376353,Enterprise,Manufacturing,Discrete Manufacturing,AUSTRALIA,7940
+cc46c93889ebede3c04c3145d88ac5af,Commercial,Technical Services,Other (Technical Services),JAPAN,22174
+0910e1dc532330b65a2dd9ce31cd9f6b,Commercial,Technical Services,Other (Technical Services),UNITED STATES,9492
+244d1f0884d960f6d4ed035f93ed7763,Enterprise,Professional Services,Other (Professional Services),UNITED KINGDOM,18479
+9595692875abb76ab75dd4ee457e2c10,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,63544
+35620c7c271fde09d73407df15690240,Enterprise,Professional Services,Other (Professional Services),DEUTSCHLAND,69332
+239da527f0cccc87e9bc5d3e5e185847,Commercial,Professional Services,Membership organizations,UNITED STATES,18438
+e9f4bd5b9db72c0efb512d614f313b71,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,1939
+aec42a2b1c1c94c3fb331eef8bfcfeae,Enterprise,Retail,Other (Retail),MEXICO,88547
+27d3933fa94e0a1069c7a178abf2df3c,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,145584
+58100e3144925f4b888fd0db01d076fc,Commercial,Technical Services,Other (Technical Services),CANADA,399703
+5dd7070501cb1aa8df7b454930cd2944,Commercial,Technical Services,Other (Technical Services),MEXICO,393055
+bd9c1b7a3a956e4f7769cccd1699c3bc,Commercial,Professional Services,Membership organizations,UNITED STATES,14285
+172d3e5a0e8646be3772f17b06689236,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,10399
+87a1cf3e2e5f54b40de46dcddf8bac4a,Enterprise,Wholesale/Distribution,Wholesale/Distribution,USA,76377
+08c4c0450d11434b2a82897fa6cd07ca,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,32267
+c792fd1f7541fb2ce3f475fb651a1bfb,Enterprise,Retail,Other (Retail),UNITED STATES,34262
+73a0a6b8df4a85fee031dfcd58dffcaf,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,55997
+f2002b54785d63de5246dc3dfcf641b5,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,18207
+0c66587b64f41cfeddb3847410b5ce0c,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,184495
+26c54a74dd3f7e5ba2fc07e1e7d4b01c,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,158692
+bf75ebf3fe52bcc8699bdbbaada77e95,Commercial,Retail,Other (Retail),UNITED STATES,119778
+229e6996960921b49fcc7295b15cb6d6,Enterprise,Professional Services,Other (Professional Services),UNITED KINGDOM,1642
+b5ab63f15be6ffbf5df11eb085da8fa3,Commercial,Professional Services,Other (Professional Services),INDIA,368191
+fc474997e57bfec2a03d4ed077f65fe7,Commercial,Professional Services,Other (Professional Services),BRAZIL,52710
+051b7281c4c01d4a606641ef4d4c92c8,Commercial,Professional Services,Other (Professional Services),UNITED STATES,176238
+7e30d62b66e05809616b40adc3c2c4fd,Enterprise,Professional Services,Real Estate,UNITED STATES,4415
+437a5a0c1253af58fd9bd32466757257,Enterprise,Professional Services,Consulting Non-Technical,ITALY,37696
+d8330fbbe03b65ae8f92301e73456268,Commercial,Manufacturing,Discrete Manufacturing,UNITED STATES,15847
+f6037019292a41a3268d13a60fc7446f,Commercial,Technical Services,Other (Technical Services),CANADA,6501
+9fb88c36ba5117595f86b8d7937ff64c,Commercial,Professional Services,Membership organizations,UNITED STATES,2958
+a4351ceb7412d8c0959b31ee1ea15121,Enterprise,Health Care,Providers,UNITED STATES,458937
+8e3186b881d7f6fb2814a9b3d89302f8,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,586527
+ff007071972a70c3ff87af416522fabf,Enterprise,Retail,Other (Retail),JAPAN,6944
+d78b99c8bf142fd9614a4af84de52aa3,Enterprise,Government,Federal/Central Government,CHINA,440041
+72b5b125e66f3f87c1c1ae0c67c2cbbf,Enterprise,Retail,Other (Retail),UNITED STATES,32648
+4f380e558d7fbb7a0b2a60475745ae92,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,19311
+c16b94f09a31ee44961f3ddffb0a76f5,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,5165
+752846558ba9741d27e2de00f2718281,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",FRANCE,142524
+f3e934c6a1f9c2d2c784127333b130be,Enterprise,Manufacturing,Discrete Manufacturing,FRANCE,277231
+2ebce24edee5afd2e11ded45459f4e5f,Enterprise,Professional Services,Consulting Non-Technical,ITALY,4442
+f19d0881ef7fe3ab9b30c702c69f1a8e,Enterprise,Retail,Other (Retail),FRANCE,32389
+01332148a36d8b60165e01eee70b3011,Enterprise,Manufacturing,Discrete Manufacturing,GERMANY,309806
+70761e3f59f2be7a2eca65535fcc35d9,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,4747
+ae44eddee55f6fc1d58c88dab5c3184b,Enterprise,Manufacturing,Discrete Manufacturing,INDIA,161545
+4211d732ace55b47e2dc0e3ddd379fe1,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,INDIA,12139
+d08254adbe19a558bf0095cd5205f3d0,Enterprise,Retail,Other (Retail),UNITED STATES,48382
+dfad7ddfa977ba900d02c3d973e0e5aa,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,18277
+4b776613d218713facaee132a5838767,Commercial,Manufacturing,Discrete Manufacturing,CHINA,12455
+2b42a080b39b28530937752e0bdaa785,Commercial,Professional Services,Membership organizations,UNITED KINGDOM,553479
+a6e458e20a7b8d990131bb30b729d9b4,Commercial,Technical Services,Other (Technical Services),UNITED STATES,1282
+227636daef7047f3e13737097026d98b,Commercial,Manufacturing,Consumer Products Manufacturing,FRANCE,8316
+dcedf465bf250922c43e28b2519a47cd,Enterprise,Government,Federal/Central Government,JAPAN,unknown
+4053fe386dff0656520e907a79f2e113,Enterprise,Retail,Other (Retail),UNITED STATES,1334
+a0c7a487d077bb598669fc53fe7439bf,Enterprise,Retail,Other (Retail),UNITED STATES,19949
+ada6290984ac7f89fdc707c7c0721f17,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,1406
+3c21ddbede1cd247582be9174da88c6b,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,105182
+ce4851bbdaf810640b189dc3b9b76f3a,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED KINGDOM,77835
+70bb27ad30f4f6685e6b360d2b9c34da,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,1845
+a3d8f20b56cb9ecda0f3d5d3d37f36f1,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,AUSTRALIA,3099
+9860558f83664f05b393910a7c1e3b86,Enterprise,Retail,Other (Retail),JAPAN,201571
+865439ecb037a88425a8d98f2ae3b6bf,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",MEXICO,4015
+dc86978b2e32e87dccd876480584d6fa,Enterprise,Wholesale/Distribution,Wholesale/Distribution,CHINA,2058
+e68a0dac19ae61ff451ef474d81020c9,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,7630
+d5a0e8d7a03ed81b071fb01e3b18b866,Enterprise,Professional Services,Other (Professional Services),MEXICO,4286
+5a932e42d0d5cd886637466c64638f9d,Enterprise,Professional Services,Other (Professional Services),FRANCE,17771
+1e8915630aa898ead0aa26205dd5f5aa,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,13212
+c1b421ef7c932b66d59fba8fb72c025d,Enterprise,Manufacturing,Discrete Manufacturing,JAPAN,250683
+8333ae043689eefbe88d40d71fc259ce,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,191066
+9b9253c590c7d2d092903e7329cb29c6,Enterprise,Health Care,Providers,GERMANY,290942
+1f3e33f2bf4cb40f39058768b2449a6f,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,10749
+d29ac25a4a06da8b71c9a29b63018d64,Enterprise,Manufacturing,Consumer Products Manufacturing,FRANCE,13294
+67e38fef43612e84a9a320bac6e5b6c6,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,3951
+788cc6dd70054a8f4c16e9af87782431,Enterprise,Professional Services,Construction/Engineering,UNITED STATES,12602
+cca7a7673e5cd55ccf894d4f113112f2,Enterprise,Manufacturing,Discrete Manufacturing,CANADA,38275
+0b7949fb88195018bfd21fc9ce02fc30,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,6709
+67b691bbad260d441d2f5a23974301f9,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,177683
+576328ee551d39f8b2dc4e5c38c6595e,Commercial,Manufacturing,Consumer Products Manufacturing,UNITED KINGDOM,3608
+5f674767e62cdcd5a97d897dcd4a83b2,Enterprise,Wholesale/Distribution,Wholesale/Distribution,CHINA,135349
+f005aad568be8674ef2a5b46b7cc6e3f,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,134816
+e95d6dcc2eb7f1785a0aa1beadbbce1d,Enterprise,Retail,Other (Retail),CANADA,1025749
+17b19f5f73104f1224a5399508055a26,Enterprise,Retail,Other (Retail),JAPAN,35951
+dd2b12292f6b1312596fea39f55cf25a,Commercial,Manufacturing,Consumer Products Manufacturing,MEXICO,31336
+0851b734162d8e20f3a4b88372ede6ea,Enterprise,Health Care,Providers,UNITED STATES,2233
+914a2140ebfc837b2577f40f8f37f1cd,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,23971
+5a9c7c3c54824f480594e74879eda0ab,Enterprise,Government,Federal/Central Government,UNITED STATES,80103
+cd587354f3f4a1a10969f4565ca0d6ce,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",INDIA,2202
+d661d51f7fb6be681072b3bed3420146,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,924618
+13234607efa1463b40118ebaabd3b0ff,Enterprise,Retail,Other (Retail),UNITED STATES,64589
+aa87f3c94fbedeca9628fc09c10e4c1c,Enterprise,Professional Services,Membership organizations,JAPAN,1309
+eb7752ee653d503ff8a0bc21013658e7,Enterprise,Wholesale/Distribution,Wholesale/Distribution,CANADA,18676
+2787a7ee8d1e9f3e72c410e186dd86da,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,5213
+7a10f5be7cdbdbfeada2fb631a226cf2,Enterprise,Manufacturing,Consumer Products Manufacturing,JAPAN,36975
+a7925962e6932164bc6ff4d85918feff,Enterprise,Government,Federal/Central Government,UNITED STATES,4194
+410a3b2ac0e0c0d1d263be7e083f3369,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,ITALY,32212
+a734f8f0acdcac0f52bac6d6dbfadc06,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,115036
+e31c6c60e232d9911e58aaad38cc3131,Enterprise,Manufacturing,Consumer Products Manufacturing,JAPAN,120330
+5abe34abb04d1adc50b9650454c36124,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED KINGDOM,8619
+fb2223dbedacbae524c381e296b30be8,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",DEUTSCHLAND,176211
+c5b171fc7dcbf893ffeb78cffa7be5c7,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",CHINA,250405
+f2ea818465118f6fd72e76bd8b041d5d,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",USA,10686
+018769be6cb4b14e83ce2b2216f2948d,Enterprise,Government,Federal/Central Government,UNITED STATES,10763
+fcb5400132e96cf208da24ba34df719d,Enterprise,Professional Services,Other (Professional Services),FRANCE,124654
+d6d2d2033f7885835aaefc1ad07af429,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,56055
+6d97a65a6644106b7235941fb8d9300e,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",INDIA,3795
+2753bafdc4875cb1d4ac609bec47ea83,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,JAPAN,2838
+e82248210fad9371cd9d9efcdcfa5885,Commercial,Government,Federal/Central Government,CANADA,2993
+e8125df20fedb5f820b61625cf0527ee,Enterprise,Retail,Other (Retail),FRANCE,6254
+1bc82524737be217a88f0fb67ff9b794,Enterprise,Wholesale/Distribution,Wholesale/Distribution,JAPAN,6188
+ac8303f08600a8c3313e8e2f95b6040a,Enterprise,Retail,Other (Retail),UNITED STATES,4300
+b36f9a1baea4ef2e12a226e5c690a7fa,Enterprise,Manufacturing,Consumer Products Manufacturing,JAPAN,15231
+c55a3e7da6ad6420a4d30201bed1253d,Commercial,Professional Services,Construction/Engineering,UNITED STATES,452594
+434c0cc58129a9af2052e8b7ff1a184b,Enterprise,Professional Services,Construction/Engineering,UNITED STATES,111269
+e43f1124c957fbba474cbe47683b3543,Enterprise,Professional Services,Construction/Engineering,UNITED KINGDOM,238195
+b95665fea82479b5db3cfdad170d3f75,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,1249
+09776d17b1b71828357ec909f7a968d0,Commercial,Technical Services,Other (Technical Services),GERMANY,40771
+f2ff4bb2b5fecca1c227924972960054,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,2390
+19ff99e538206f296d5f07dec79ed697,Enterprise,Professional Services,Membership organizations,UNITED STATES,14427
+8d272c8ba25ecb473561e42389c31cfd,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,3583
+935c559c3b7992f240967f61f9c3590a,Enterprise,Retail,Other (Retail),UNITED STATES,23724
+8be7efcdf34dad5b8ccb10857dcf362d,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,20740
+c2bc67c497fc39c7bd257e92c265077b,Commercial,Manufacturing,Discrete Manufacturing,UNITED STATES,144196
+3314287a14435719f284d490d051ece0,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,ITALY,64095
+cb18e9229b73e95b94ae0b6ce9eb70d1,Enterprise,Health Care,Providers,UNITED STATES,22223
+47052efbeda988689c68eb2e5cd03175,Enterprise,Technical Services,Other (Technical Services),INDIA,74434
+5f1ee6240f269087d6267a0872b2ae89,Enterprise,Technical Services,Other (Technical Services),USA,23570
+9b8efd4a378050475ec7c1b7e3bf4358,Enterprise,Government,Federal/Central Government,UNITED STATES,56781
+a100283b0b6a3061fe00b812482716b8,Enterprise,Retail,Other (Retail),UNITED STATES,8801
+731acc3f8cd9a54e319f8be0545b69c0,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,CHINA,13368
+0b3dff0bc8c506b2db702d4cbef6cb7e,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,10575
+2577376f68fecb4dba3472421fcf1d60,Enterprise,Government,Federal/Central Government,USA,8242
+e99c759074dc8fa6eda733da3780f0ab,Enterprise,Wholesale/Distribution,Wholesale/Distribution,GERMANY,114618
+7c349731ca00ff2261f339f974cdf714,Commercial,Technical Services,Other (Technical Services),INDIA,3183
+3aa28fa6fd4ffdd7f561ab427e4d4906,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,9196
+97df42a573f854ece456d5bd4c1fb318,Commercial,Wholesale/Distribution,Wholesale/Distribution,BRAZIL,5436
+6ebde3e1bd823c92c761f74ccdfdfa21,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,15280
+62c776b7558be87e530b39feaacd36f6,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,26836
+471bd0d9edd23f56c17da0ce53dea61d,Commercial,Technical Services,Other (Technical Services),UNITED STATES,133675
+63009404fc22dbad11a9f7a1c1c4be80,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",FRANCE,44832
+aaca4c72cdedbea3e43ff5180e1cd652,Commercial,Technical Services,Other (Technical Services),UNITED STATES,16176
+0f5a0d0a781d566a8bb54b7e18cca252,Enterprise,Health Care,Providers,UNITED STATES,143507
+dd67775ba7f9377b855fd666e127a9b2,Commercial,Manufacturing,Consumer Products Manufacturing,GERMANY,6242
+e12f39f87d11b6aab98694fa03ac3eee,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,4582
+a03b9e0ec26cd61abe643a498dfe1e0f,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,CANADA,16073
+12216989f650fb357bffa63ab84c5e62,Enterprise,Professional Services,Other (Professional Services),INDIA,23426
+e640f2e5a37278897cdf3841b3da8ff9,Enterprise,Manufacturing,Consumer Products Manufacturing,AUSTRALIA,124750
+7015b24744f7b9f3d7263122979bb691,Enterprise,Government,Federal/Central Government,UNITED STATES,23618
+772ba1544a4bcb7798dba2d11fc8d0b0,Commercial,Wholesale/Distribution,Wholesale/Distribution,MEXICO,45852
+57cb6c3376ebff654cfff5a21e3d82df,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",GERMANY,9379
+155b595f24c16a9a7482b9d210ef8001,Commercial,Technical Services,Other (Technical Services),UNITED KINGDOM,1017
+79ee68416fa97654b0e04cef33eb0a20,Enterprise,Manufacturing,Consumer Products Manufacturing,JAPAN,10365
+c26363531c1c685aed7946a8d0ae2687,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,8671
+ce234ecd8e07586b74cc29290630301e,Commercial,Professional Services,Other (Professional Services),AUSTRALIA,73232
+d58ecdc7b1613a45274808399edfda79,Enterprise,Manufacturing,Consumer Products Manufacturing,JAPAN,6110
+11b9f8c0941fc7217843c9c76221e447,Enterprise,Technical Services,Other (Technical Services),USA,10493
+e4c647db8abbe1acf98f12fa42f1f54a,Commercial,Health Care,Providers,UNITED KINGDOM,55904
+65b609ff0eeb240832d0e1456def7cae,Enterprise,Government,Federal/Central Government,USA,127435
+45b4b29854c41d84f80a86feeec9895c,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,23846
+668da17ec42aed7c45ce7f9a7aed7537,Enterprise,Manufacturing,Discrete Manufacturing,CHINA,11910
+7cc30b449412c3f369c4a4bed637a3ac,Commercial,Professional Services,Other (Professional Services),UNITED KINGDOM,23247
+a451ad5b37e94e1d5afd16baeec48484,Commercial,Retail,Other (Retail),UNITED STATES,4414
+e2ace2ba926631e746ed163418586671,Commercial,Retail,Other (Retail),UNITED STATES,55427
+d270da83b6e219d994386bbfe8c768fa,Commercial,Professional Services,Real Estate,UNITED STATES,6126
+6684629ced21b5dd66359e6001603910,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED KINGDOM,38745
+fa7a1dc54b02615505a3e281321becbf,Commercial,Retail,Other (Retail),UNITED STATES,14292
+07ca24d06e46948e3b3ec924a086ce92,Commercial,Retail,Other (Retail),USA,189823
+8804e7111be6e2e80b3ad6d74f0b7486,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,235679
+6a1b57d014062b6df6b9332c2977f444,Commercial,Health Care,Providers,UNITED STATES,15143
+3a9091f0d67c0d8b283aee04eecadf0a,Commercial,Retail,Other (Retail),UNITED STATES,45212
+1812068344f32bb939fcac32de4a2b4b,Commercial,Manufacturing,Discrete Manufacturing,UNITED STATES,69604
+3de0f32746d27967e84de041127b723e,Commercial,Retail,Other (Retail),UNITED STATES,123719
+70af07d9674a2f2e9f04c8987e036fc9,Commercial,Technical Services,Other (Technical Services),UNITED KINGDOM,125657
+3351ec26b762678c359f23a515554d9f,Commercial,Wholesale/Distribution,Wholesale/Distribution,USA,259039
+866cf66eed48237e6a42328f040f4dcc,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,8443
+57e26e486d93a892480412cee00adf4d,Commercial,Professional Services,Construction/Engineering,UNITED STATES,2538
+16e6fa61285b834b0e9f59e553abacc8,Commercial,Technical Services,Other (Technical Services),UNITED STATES,6845
+caf5f326f2187814925115c431bdf5ad,Enterprise,Professional Services,Real Estate,UNITED STATES,121760
+64f1945e8e908ff6bbcc4385b10d72ec,Commercial,Technical Services,Other (Technical Services),GERMANY,592999
+3c5f435daf2afcb29c61c879189b3c08,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,1823
+23c8f7931f9191c09226b19ba662f773,Enterprise,Government,Federal/Central Government,UNITED STATES,5258
+5df66a9d674931f06cdb913c9a7e73dc,Commercial,Professional Services,Other (Professional Services),UNITED STATES,32500
+44164f504d85c619f05e5a9efcde258d,Commercial,Retail,Other (Retail),FRANCE,6329
+e82b2fa596b1c478f8a47912884a75ed,Commercial,Manufacturing,Discrete Manufacturing,UNITED STATES,397580
+b5d8a9ae69ae681c05ed28112086b105,Commercial,Professional Services,Membership organizations,CANADA,25346
+fd96f44f153888e4f9878e047a20eaef,Commercial,Technical Services,Other (Technical Services),USA,304022
+cc5950f9f5fc51d7bcd36ab8d28b3dfb,Commercial,Manufacturing,Consumer Products Manufacturing,UNITED STATES,37724
+2b314e2142bdc68cbc07fc2ccfddd639,Enterprise,Government,Federal/Central Government,MEXICO,4082
+3a1d04044dd4394006a2db0da5a32b4a,Enterprise,Professional Services,Consulting Non-Technical,UNITED STATES,155223
+42182732e8d7056d7026f16cc7deff7b,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,5092
+6aa32e54f2ae3467fa1e1603ccd30945,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,45321
+b077e823566369a8e0962ddb4e8ce195,Commercial,Professional Services,Construction/Engineering,UNITED KINGDOM,31977
+520c26ada7a73528136d705eb312f579,Commercial,Technical Services,Other (Technical Services),UNITED STATES,468162
+d4b486f9c10769e20f22a43ccf4dd9bf,Commercial,Manufacturing,Discrete Manufacturing,UNITED STATES,54987
+62eadef98ff6e8e117367ff3ef1ed73b,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",FRANCE,199491
+cc92359d0ec62599b7578c381c38409b,Commercial,Professional Services,Construction/Engineering,CANADA,41352
+0af375821b873eb3aa23992990b2b3a7,Commercial,Professional Services,Consulting Non-Technical,CANADA,10827
+935ed4529a14e32161595698bac14018,Commercial,Retail,Other (Retail),UNITED STATES,7267
+2d0c5d0d6379fa4d79fbb6e73ad46098,Enterprise,Retail,Other (Retail),UNITED STATES,16319
+56bd1269b166c5b2903b63c40bafff49,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,18052
+cdc7abdd23f068b1a5275fe240c56179,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,142071
+8b981548ff55d185bf261768399e21d6,Commercial,Manufacturing,Hi-tech/Computers Manufacturing,CHINA,48715
+498814bcf6cda5f83760223c5f79b1a8,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,1399799
+627bd2d0b85a2cc59df1b9dc3305c19a,Enterprise,Health Care,Providers,USA,2603
+5e6a6f7eaff2438f68fe6da71285b4c9,Enterprise,Manufacturing,Discrete Manufacturing,CHINA,7247
+33239e41435a29aa962a11095ff8c836,Enterprise,Health Care,Providers,UNITED STATES,14846
+256ae9330f5540964d701cf10570c5f4,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",MEXICO,9342
+356d78b55b0e6c01a6b34939a8eb87e7,Enterprise,Government,Federal/Central Government,UNITED STATES,474184
+c7dfa9ce3b55d858d24113f39263f22a,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,31013
+852cffe38801e668ceb80bf8552aa66c,Enterprise,Manufacturing,Consumer Products Manufacturing,CANADA,4443
+e1f480d93bac22d5978714861bc9e70d,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,200186
+19b1526f0c81dd90800977e869b803b4,Enterprise,Government,Federal/Central Government,JAPAN,460690
+be7cfb7f7b94e3190b521fe92856e8cd,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,3620
+8b0351a8b99403d75a734e894776f689,Enterprise,Retail,Other (Retail),CANADA,220769
+96f1762d3c21ef831970a2d15101157d,Enterprise,Professional Services,Real Estate,UNITED STATES,4071
+d330055c463a45e306874137600668e5,Enterprise,Health Care,Providers,UNITED STATES,46428
+9a859d31e69f9e27520183298fdfeba8,Enterprise,Health Care,Providers,UNITED STATES,15832
+d18b898e6accf1fc697bb816e6b45ee3,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,126746
+1b4c4817df42e02aea3325ea11c7b6fa,Enterprise,Manufacturing,Consumer Products Manufacturing,GERMANY,151865
+38738a5eded0732a96b641518ce21782,Enterprise,Manufacturing,Discrete Manufacturing,CANADA,2780
+b4afaafca610bf766eaaf99d4790d2ae,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",BRAZIL,7570
+69bd1e4b26e178cc75e0fd95323bdabd,Enterprise,Government,Federal/Central Government,UNITED STATES,291031
+550ea4a0a9fd5328638fe78cf16437aa,Enterprise,Health Care,Providers,UNITED STATES,304748
+c26d3a0b45f45b88111616eae2ed4a09,Enterprise,Government,Federal/Central Government,UNITED STATES,2460
+6f4bf3f697e69535fd90fdb7a7baec81,Commercial,Professional Services,Real Estate,UNITED STATES,4350
+b0eb80d8e773e592449fb971718b7a6a,Enterprise,Government,Federal/Central Government,CHINA,9221
+19eee54b0c82b92f5c50735e21f14c11,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,4262
+8ba0285bc7cfad99b480d4f1f70b4a47,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,202475
+d8e3efd2a6c973180ac5c2fa074e7a41,Enterprise,Retail,Other (Retail),UNITED STATES,81841
+fca240313c74b46fd16f4c8826a3d6d2,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,JAPAN,15840
+fd271a5c746b66affc76fb63ad8d64b1,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,67708
+c68589f669f75181f43241670c855816,Enterprise,Technical Services,Other (Technical Services),INDIA,22297
+f0583fe217d5e7ef32791b466fc8ed6b,Enterprise,Government,Federal/Central Government,CHINA,65550
+2411c157c52b30f95c46928816433174,Enterprise,Government,Federal/Central Government,CHINA,2639925
+3553fda625999ac4851d3ec875d94bc9,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,58237
+59fc6e4e4f2420e7815a1bedd97602c6,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,23459
+5304882889f8ab4e2c776bd2eb4b732c,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,278320
+7a1326d8dceaf4023b548ec0ce6b29d0,Commercial,Professional Services,Real Estate,UNITED STATES,7894
+dc8063021cf1f481698a2c7053cc33e7,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,15063
+0f70c2626644947d07417981aaa17cc4,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",JAPAN,256272
+8c41468b8654650c554aa28941b5fe35,Enterprise,Retail,Other (Retail),UNITED STATES,27442
+1e463728063e0820390dd467fe640396,Enterprise,Manufacturing,Consumer Products Manufacturing,BRAZIL,1389
+72ab85a8af718d109f86a5444f8a9fd8,Commercial,Manufacturing,Discrete Manufacturing,UNITED KINGDOM,17328
+74fe7de6b6e72e0c4ccb47ef82be010b,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,JAPAN,1190
+ba884452a4bdf15b4c5386dcd055cec7,Enterprise,Health Care,Providers,BRAZIL,3828
+a93ba4f9a81bbaf13275e7c2c56e5a7b,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",MEXICO,25614
+61fbcdcb58fb8f2232432c4f63584dc0,Commercial,Technical Services,Other (Technical Services),CHINA,1146759
+67ab5ca6e53853481aec7cb5d0b3f76d,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",FRANCE,86549
+bdcb3dcdfc96f5eaabe784d8d9172e67,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",GERMANY,7942
+8d302635431a427d4d475e7aa783bc43,Enterprise,Professional Services,Other (Professional Services),AUSTRALIA,3292
+c3076b5b3cdafab3387191e92cbec420,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",AUSTRALIA,152260
+778955b69f13e2e20f82c8ed11906958,Commercial,Technical Services,Other (Technical Services),UNITED STATES,148597
+c6264525c17ccd989c4754e5b57201c6,Enterprise,Technical Services,Other (Technical Services),FRANCE,23150
+a1736385de655195fd46339c33a244d5,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,18161
+e2161a13ea574ae14629e28b8ff9a494,Enterprise,Wholesale/Distribution,Wholesale/Distribution,CHINA,15592
+3197c22fba4747be856327e907206f64,Enterprise,Professional Services,Other (Professional Services),CANADA,571712
+5c7ea8cd52c9a0bcf90509a98fcdb307,Enterprise,Retail,Other (Retail),FRANCE,7541
+d238a025a958cc6fa1c11e47b84f0589,Commercial,Technical Services,Other (Technical Services),UNITED STATES,2929
+b80f262b528bd2e4dc9c18b9484a631f,Enterprise,Technical Services,Other (Technical Services),MEXICO,35148
+8c6850a51c01e9cb023396f411558211,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,233111
+aab1d20379dc04270a838980bb02dc2d,Commercial,Professional Services,Real Estate,UNITED STATES,301366
+148c6b644ad0646bbf2acfcfa47678fe,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,770094
+d08fea8d02b400241cd67e2ccbb007e7,Enterprise,Health Care,Providers,UNITED STATES,170742
+2de422c656b0754f0324d9c31dae022c,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",GERMANY,458829
+ffaeaac1c763a753d2f2e21ad2796bde,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,FRANCE,1980
+185026a0a9429bb57db715fbf767554f,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,INDIA,2019
+d1b57d57945f6adedf0acd5456b4075e,Enterprise,Retail,Other (Retail),FRANCE,28820
+e43372e4000051ed44eea3cc96c10be2,Enterprise,Retail,Other (Retail),USA,44338
+0c173127c3a9f91437a1303cf62691dc,Commercial,Manufacturing,Consumer Products Manufacturing,UNITED STATES,4060
+2c50cca417d66e44c87739a01cb7b1f3,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,112432
+d3818dabfd2859b02cc813eeba3e78b8,Commercial,Health Care,Providers,JAPAN,11002
+e202f7e18b37d24d994df198ec691e0e,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,56574
+02117cefbb9983d1efb588a8a76520d8,Enterprise,Professional Services,Other (Professional Services),GERMANY,8720
+9ea1d6e17de8fc049241c7cc9413bfc8,Enterprise,Wholesale/Distribution,Wholesale/Distribution,JAPAN,30128
+2c6125100810db9d56bd989b32145a97,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED KINGDOM,17598
+533fc3e724e680686532c427c0f55603,Commercial,Manufacturing,Hi-tech/Computers Manufacturing,CHINA,166278
+3070f7cb167d3c2ac855fa6d3db64994,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,52653
+59219fed72785296534e32fae042c84e,Enterprise,Manufacturing,Consumer Products Manufacturing,GERMANY,2948
+f644991d8858c14b4ffabf82616d8738,Commercial,Professional Services,Construction/Engineering,GERMANY,44379
+de94819734ad82309d819dd3cc2d39d4,Commercial,Retail,Other (Retail),GERMANY,69440
+13e8defdd7fc7c17ca10bb431c07e9c2,Commercial,Professional Services,Membership organizations,UNITED STATES,4926
+a58e3e47821a661fd75673f1e3f80dd3,Enterprise,Technical Services,Other (Technical Services),GERMANY,29073
+4838f66868e668cab23fe947c481bc44,Commercial,Retail,Other (Retail),UNITED STATES,506196
+d34a6862529f5dd641d924a0062fa5f8,Enterprise,Wholesale/Distribution,Wholesale/Distribution,GERMANY,104894
+f3869442f2bbfb44a78304a320926feb,Commercial,Health Care,Providers,AUSTRALIA,20900
+bfd76814c2a5c46b435e6786694c20a8,Commercial,Manufacturing,Hi-tech/Computers Manufacturing,JAPAN,56705
+47b98f0100a3da2df0a7f110233ceb86,Enterprise,Professional Services,Consulting Non-Technical,USA,573675
+f1f70cb83551f7ea6c4f1cd32b1289b3,Enterprise,Technical Services,Other (Technical Services),USA,113230
+d5be414c6db905d86d531583bdab3f05,Commercial,Professional Services,Other (Professional Services),CANADA,5856
+23d0a185c598ad34d2c93e67960696aa,Commercial,Retail,Other (Retail),UNITED STATES,1636
+d11a457f80302033b2d9df071f648191,Commercial,Professional Services,Real Estate,UNITED STATES,33931
+f415ae6b6d5737f364de433364dc853a,Commercial,Technical Services,Other (Technical Services),FRANCE,10337
+e46051aeb11de7e3d82cab288d068c7e,Commercial,Health Care,Providers,AUSTRALIA,17759
+c43e6ef4a559b57801bcadb08a917470,Commercial,Professional Services,Other (Professional Services),CHINA,2786
+fa8795661d12e069f1ba8a69d4c06042,Commercial,Retail,Other (Retail),UNITED STATES,50792
+1fe402953b456007ebf370c02ec3cec6,Enterprise,Government,Federal/Central Government,USA,2024
+324be207d412f832bea19a7948914355,Commercial,Health Care,Providers,UNITED STATES,67598
+563d5c3cdf711d415a6c33dfdf78f085,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,11109
+9c6506c4a50fb50d3de892c7dd0b42c8,Commercial,Technical Services,Other (Technical Services),UNITED KINGDOM,7958
+0f3315f7bebafd5f7e4ce0690e7faaf3,Commercial,Manufacturing,Hi-tech/Computers Manufacturing,UNITED KINGDOM,7424
+9fff6df59302f09a659d92bf3d5080fb,Commercial,Professional Services,Consulting Non-Technical,FRANCE,4120
+e842eba1178065b2dd20a78fef8e229b,Enterprise,Health Care,Providers,CANADA,4942
+ada33ea711e851d236db075c2a44bfc3,Commercial,Technical Services,Other (Technical Services),GERMANY,14547
+f45171be23e275096d53073a2f8f0dba,Enterprise,Professional Services,Construction/Engineering,UNITED KINGDOM,3741
+155af124ee569864c3e5939f6da5658e,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,20271
+a3e3f23691a309b5fe7d907ee074a9a6,Enterprise,Technical Services,Other (Technical Services),CANADA,34892
+c1db3aad0f3d2ece8d77fed352273740,Commercial,Retail,Other (Retail),UNITED STATES,87892
+bfb9c32481068655a7c4201a46eaa1b2,Enterprise,Government,Federal/Central Government,CANADA,4454
+0896146be79b2b7b2c3354fb80f9e1fb,Commercial,Manufacturing,Hi-tech/Computers Manufacturing,UNITED KINGDOM,3572
+0bfabee38ed590023edc60e39e5275c2,Commercial,Government,Federal/Central Government,CANADA,38142
+2de54b10f85743d82b6c735ba1f998a0,Enterprise,Professional Services,Construction/Engineering,CHINA,994738
+c2dbc149e251f573cae80702bee178e4,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,3771
+1e9c0af073ff1735610d44e6c3f17a97,Commercial,Professional Services,Construction/Engineering,AUSTRALIA,35584
+66c990c235741dc5b3495bf88baafbc6,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,1149622
+2d1d05b920c885a42aa192c3a395a381,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,60914
+e79bcad102f061d535799ccb0f8ac0e5,Commercial,Professional Services,Other (Professional Services),CANADA,5564
+9ea5b4813a04588435e735ba1513b7b9,Enterprise,Government,Federal/Central Government,ITALY,3735
+4e710b914bbcac54f03ec88e80a76a54,Commercial,Professional Services,Consulting Non-Technical,UNITED STATES,62896
+13d829a4259ff0639d6660924d48814c,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",CHINA,12750
+f9eda601a53da50d9dbc6b6614e1c512,Enterprise,Government,Federal/Central Government,ITALY,1647
+e51ac02cb8a1b0d31082942946765512,Enterprise,Government,Federal/Central Government,UNITED STATES,52932
+efb7a74746a7926552560938ae748567,Commercial,Technical Services,Other (Technical Services),UNITED STATES,1280671
+875a4d8b48dd34d1351b9097f8047db0,Enterprise,Government,Federal/Central Government,CHINA,1581
+d436b238260706fd736113c1ec04a8bb,Enterprise,Professional Services,Real Estate,FRANCE,4226
+a09b0ed0d4173d432313d373aa1a3e0a,Commercial,Professional Services,Consulting Non-Technical,CANADA,248956
+3acd20c8abda82250f7efdddd43c6a60,Enterprise,Retail,Other (Retail),CANADA,4828
+d6edeb7110f55d012c730e5737001514,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,113397
+042d172e69888ffff651e3bd9c1d79e0,Commercial,Manufacturing,Hi-tech/Computers Manufacturing,ITALY,875745
+03903b56da01530b074be9842dbbe521,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",CANADA,83935
+71e48a2e46ed49a45875de12f08c76cd,Enterprise,Professional Services,Real Estate,UNITED STATES,3379
+a8c779267fb7b33f90042df9843cd0e9,Enterprise,Manufacturing,Discrete Manufacturing,CHINA,30144
+7d2fe932697b9bf05aae877016c81f77,Enterprise,Government,Federal/Central Government,UNITED STATES,18543
+e1a89429837fc3d199a2d6337d89fbe8,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",CANADA,56424
+e52bf9824c92d8ef74f5a21508e37413,Enterprise,Retail,Other (Retail),UNITED STATES,7994
+6cfd38eaaa12099f705ed4e9f724c1ec,Enterprise,Retail,Other (Retail),AUSTRALIA,218777
+98b8a3f57c0ce8dbfe5b800c3a676e2b,Enterprise,Manufacturing,Discrete Manufacturing,CHINA,1523
+31cc5b0a3d39a56042b374f4343cfac3,Enterprise,Retail,Other (Retail),UNITED STATES,1198
+f5d53295a9bc64d6556423f8b19ae7cf,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,350646
+7ff4ce3a52f042e9c0af8a944193e4a5,Enterprise,Government,Federal/Central Government,CANADA,156884
+f87671634447d89163580522d2d94808,Enterprise,Retail,Other (Retail),UNITED STATES,181370
+a9a7911c3c8e2dce245be31f7b2393c3,Enterprise,Manufacturing,Consumer Products Manufacturing,CANADA,25115
+43fbe849a0d6312003ae2220ea29fe52,Enterprise,Wholesale/Distribution,Wholesale/Distribution,GERMANY,14757
+bbd6c7b39f37a3beb8655720a3d7d685,Enterprise,Professional Services,Membership organizations,UNITED STATES,7278
+37826f687630a1fe452f057ebe81d99b,Enterprise,Technical Services,Other (Technical Services),CANADA,6780
+e7ff88511e1a184a9aefabce3b3a0c02,Enterprise,Government,Federal/Central Government,CHINA,161552
+3021262c6e320da800d7a1877489ff7e,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,110149
+8f93cb83109c493e2efc86f5ff398b2d,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",AUSTRALIA,8179
+7a07f7361124d99e179f8e9c5393ac70,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",CANADA,8032
+ad4aec0f670b6b8f438470de72b14380,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,52309
+77b0b773df138dbfdfa8e54b416c990a,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,3731
+62b527066e9d4c97f1ff0e47789fb0e2,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,9932
+e36aa77d23eafe17975c5a82102e241c,Enterprise,Government,Federal/Central Government,CHINA,7883
+ce69005e85e40ed5b4ef51f1bed55753,Commercial,Manufacturing,Consumer Products Manufacturing,UNITED STATES,170298
+5c400c260d3101ca64fb70a24ddc70a2,Enterprise,Government,Federal/Central Government,UNITED STATES,3592
+47746dcbf85445dbc5e20b0c1cf1b26a,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED KINGDOM,4059
+c3d57702ea7d79b3c3e3076d6b3c3d3e,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,9374
+83bdb86e5b619a45bc3a4c7d8337fb27,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,6566
+624c7f7c785d1291c1688ade3cf4053c,Enterprise,Professional Services,Membership organizations,UNITED KINGDOM,84295
+101cb5b3b16199f902299d44b00d50fe,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,42556
+0554640b1535614465ed80b3185ad5c9,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED KINGDOM,57584
+83e83a2f79d396eeed35407d0218d54d,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,3016
+87a7ab68d74049a14c850a94fa06e142,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,32312
+55d6422ac3610a471b0591407068c630,Commercial,Technical Services,Other (Technical Services),FRANCE,62310
+fae9339b1313bcc012e573d7bce3a9ad,Commercial,Professional Services,Real Estate,UNITED STATES,unknown
+411bd6bd51e2faeb82339a6d23e4d900,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,5090
+db4ead78222ee0a8e26ba4989c8e75e5,Enterprise,Professional Services,Consulting Non-Technical,GERMANY,3560
+97e015156bfa05c9b1a46873fb752886,Commercial,Manufacturing,Consumer Products Manufacturing,UNITED KINGDOM,2398
+acdd8cd86eea6aecfc00541da894b93d,Commercial,Manufacturing,Consumer Products Manufacturing,UNITED STATES,579570
+ff3c1d78cb6377326f6af52407081763,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,24419
+7607b7cd7c8f8f2afc0f3e31940d6648,Enterprise,Professional Services,Real Estate,UNITED STATES,385553
+b591427254f805f014ee6122aeb7ece7,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,CHINA,10919
+1d2cd99e3c3652b9268a8769e06e87e0,Commercial,Professional Services,Other (Professional Services),CANADA,1781
+407d4b60f14862f55a146e9c934291d2,Enterprise,Government,Federal/Central Government,UNITED STATES,3981
+b25eefe35d4b3f81062911f18cfc699e,Commercial,Retail,Other (Retail),UNITED STATES,4803
+deb2f08ed817719abd84932173862888,Commercial,Professional Services,Consulting Non-Technical,ITALY,101553
+343fdef3c879c4b60bdb38247f6bf54b,Commercial,Wholesale/Distribution,Wholesale/Distribution,BRAZIL,11484
+8bda44b1702e92ca2f9a00f616f055a8,Commercial,Professional Services,Consulting Non-Technical,AUSTRALIA,19452
+78b8bfbf922886614a6afdb949108cda,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,2190
+63e8cce1b90ffa186a617147facb304c,Enterprise,Manufacturing,Consumer Products Manufacturing,AUSTRALIA,113697
+19ca7f0654c109f095168ef83e053c5e,Enterprise,Government,Federal/Central Government,UNITED STATES,261894
+66599830063d3ecdddad3bd2006b8fd7,Commercial,Technical Services,Other (Technical Services),UNITED STATES,59459
+e8f9eabe1470fd66f5c5283db9abf478,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,50815
+35f88cd454c47bd07f1ec68ca6b92f94,Commercial,Retail,Other (Retail),UNITED STATES,430606
+5155065636ce33d04c6f7e31f2da42a4,Enterprise,Professional Services,Other (Professional Services),UNITED KINGDOM,231400
+6ad3b2a16bcb35449e03e947978aa820,Commercial,Health Care,Providers,UNITED STATES,7317
+cd00f7b7bf43c1f118fc936baf3091e2,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED KINGDOM,515410
+863d18b9ce24e7e04cd2984a3fc9393f,Enterprise,Retail,Other (Retail),MEXICO,12528
+b0c4289fecbc025acd431b72fb68a85a,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,759018
+0c1677d6901f8dbeefc985a3e58b0251,Enterprise,Professional Services,Other (Professional Services),JAPAN,1946
+88ff1acb2904f5c98617d5ac813795dd,Enterprise,Retail,Other (Retail),FRANCE,63317
+cd4c495b41dc64335e2c50da5dd53cd7,Commercial,Technical Services,Other (Technical Services),FRANCE,2314888
+ec096b5234e43285ae021a7ce260da41,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,496249
+e33ad7c38f819d570bf10d0970b1c079,Enterprise,Government,Federal/Central Government,UNITED STATES,33514
+97fa0f7a8758c5d35b8ff7e4ed3fd263,Enterprise,Health Care,Providers,UNITED STATES,74068
+db01329b35dac55dfd7834cf3c823340,Enterprise,Manufacturing,Consumer Products Manufacturing,GERMANY,671255
+563ba1a1911a82b10847df564cb2fa6b,Commercial,Health Care,Providers,UNITED STATES,134863
+4b1ccbe7db0a60af79220d92dc96a77c,Commercial,Health Care,Providers,UNITED KINGDOM,3140299
+e6de217fcdbaa1d7c1ba7de20f8536e9,Commercial,Technical Services,Other (Technical Services),UNITED STATES,10024
+eac5851afe4126f27e1329cd4ea031bf,Commercial,Health Care,Providers,UNITED STATES,53584
+0b4d27b22df02ca156173cf43c609928,Enterprise,Government,Federal/Central Government,UNITED STATES,61078
+8937ef41fb5a86d3bed80e41fccf939b,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",AUSTRALIA,10659
+de9f7cf22c871b42ec3ef68f97249471,Commercial,Technical Services,Other (Technical Services),UNITED KINGDOM,106282
+6db5c2b4bad92fa7e8b68e41e9b00456,Enterprise,Professional Services,Other (Professional Services),BRAZIL,34191
+f36a1948c59f9bbb31a098350996ef57,Commercial,Professional Services,Other (Professional Services),UNITED STATES,21374
+6fbf99cc8ffaf3ae252d93470b1095ed,commercial,Technical Services,Other (Technical Services),AUSTRALIA,251368
+b17f2227fec74e9f7a2c5c80e074acdf,commercial,Manufacturing,Consumer Products Manufacturing,AUSTRALIA,5304
+aeb8475cfd8d50a2b8fcfa040dbe3b83,Enterprise,Government,Federal/Central Government,CHINA,12227
+dac22fa9bb8a5e4b398baecf2d3c7a11,commercial,Technical Services,Other (Technical Services),GERMANY,13570
+1ab03865b5c0a556c1c7d7f23cea72a4,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,2722
+5097fdc799386a685dfdbbe7e72180d2,commercial,Technical Services,Other (Technical Services),UNITED STATES,50262
+242e8add8a9f75a0eb4a015521999411,commercial,Wholesale/Distribution,Wholesale/Distribution,BRAZIL,unknown
+280789ab46da6a574645a4ee3efbf79a,commercial,Manufacturing,Discrete Manufacturing,UNITED STATES,6783
+82d3e8c9de7b190194674ffe5c4bd25c,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,7216
+1a3af4d7eaaf8649d176ec3e0a22bc86,commercial,Professional Services,Construction/Engineering,UNITED STATES,16463
+e8116b2731c19ed163ae61200b4ebded,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED KINGDOM,2589
+0746ec8a071fcbf4bc72aa9e8c71504f,commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,1407
+6c7346de9332a0a0d5d92d89c90119ef,Commercial,Professional Services,Other (Professional Services),UNITED KINGDOM,9015
+d2e315b4bb119dd7fff160990bfe138e,Commercial,Technical Services,Other (Technical Services),GERMANY,4088
+e9babe39aabff772e983cf7547fcd6c1,Commercial,Professional Services,Construction/Engineering,MEXICO,13365
+4e1b8fe13680e18ceb6de72274b2e25a,Enterprise,Professional Services,Real Estate,JAPAN,7944
+3a461c601b024260bac031182bd6e35a,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,108118
+0e407515013909068018e4922c0dcfa6,Commercial,Professional Services,Real Estate,UNITED STATES,70032
+56d55d03fef6ca4ac0e1a81305b8f0c3,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,56154
+2bdb302fa78b6716111bff4ccd0aec36,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,105763
+04622a686006752ff8f5ca03d6121c1c,Enterprise,Technical Services,Other (Technical Services),UNITED KINGDOM,1850
+0d788c9b707aacfa430b1c456b2b6aab,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,37810
+a1dac2fb2d74184add1fa66cbee5bcd5,Commercial,Retail,Other (Retail),UNITED STATES,33674
+330f6c3322112fa0ea52965abbea3762,Enterprise,Manufacturing,Discrete Manufacturing,GERMANY,72715
+75348d67c770027fd95c19a49e90f098,Enterprise,Government,Federal/Central Government,UNITED STATES,68832426
+285ddc13e29e78ea6b2f66ed4869ed31,Enterprise,Government,Federal/Central Government,UNITED STATES,29277
+740dbdc8a540f2c292c3f1906f410dbc,Commercial,Wholesale/Distribution,Wholesale/Distribution,ITALY,93097
+a8d89641108e311786b4b89bd7cba30c,Enterprise,Manufacturing,Discrete Manufacturing,CANADA,207850
+fb1478fb43db65036d8130b682bca471,Enterprise,Wholesale/Distribution,Wholesale/Distribution,GERMANY,22858
+44c79d742f5c6af81dd517e219776463,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,3769
+5bc6fd22e5574de38d150f40c4bb86e1,Enterprise,Government,Federal/Central Government,JAPAN,15968
+8463705eccc851d8c64901346499e660,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,21863
+cbfe63f59c5ce7ae33d6f6b76d8625fc,Enterprise,Health Care,Providers,FRANCE,254375
+27208cd69cd491bcc2527a2c5387e0e0,Commercial,Professional Services,Consulting Non-Technical,UNITED STATES,168518
+0f4d22aa9c2de54d7550305d7020452b,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,1622
+a67228f9329b698ebbb8a8c49a991db4,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,9160
+ef62406a04fed043741574c1271490e9,Enterprise,Manufacturing,Discrete Manufacturing,INDIA,382099
+aa89c3a0b936da55e0861740a95e4a35,Commercial,Retail,Other (Retail),UNITED STATES,13387
+09eb60fcb6846d0dff103557266a7d6c,Enterprise,Professional Services,Other (Professional Services),GERMANY,21810
+d43a19804b58604d64e6a5551b13065e,Enterprise,Wholesale/Distribution,Wholesale/Distribution,GERMANY,378342
+56c4429e5de836739fee2c5e741cee9d,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",JAPAN,74801
+4cc800a56f47a99a537362073e7fe8b1,Enterprise,Government,Federal/Central Government,CHINA,24399
+43057d70d8c9b02119af76f1c5c975c5,Enterprise,Government,Federal/Central Government,UNITED KINGDOM,4600
+4519ff37c31e4f6437bb763dc3f46f78,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,17299
+22c0714bdcfcfbbda3931a5eb7ee9ec2,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,59637
+85d2d3eb127437869042c7550a7795f1,Enterprise,Government,Federal/Central Government,CHINA,58141
+7a93b287f6e2c0cfb651e33c2b06b422,Enterprise,Retail,Other (Retail),UNITED STATES,70504
+3ee8df627047a1513948be61834b52c3,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",FRANCE,2178
+5777668f9c840adff49242a88f0b96c1,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,9469
+474340e2c2e492252e33d4fcb44c6ccd,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",CANADA,7064
+b5a3468d8c2b8da402dec4b4566c66ed,Enterprise,Manufacturing,Discrete Manufacturing,GERMANY,248225
+6fedb879aa9f99c91568e4308d0cef56,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,17513
+7f85fcde3d8815aa9410628906684353,Enterprise,Government,Federal/Central Government,JAPAN,2862
+274872e9b585806a3896d3a8a2a378c7,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,78309
+9679f5f979d5208550ac297b53eea0d5,Enterprise,Professional Services,Other (Professional Services),INDIA,24806
+96da7283f1e11ef098d7bf527a5ab258,Enterprise,Technical Services,Other (Technical Services),CANADA,33273
+7cde7260af91094c5cf1750528d24caa,Enterprise,Government,Federal/Central Government,ITALY,3403
+dcb8315db7f6c4c758b40ae606291141,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,962528
+6d427db6670d7d982200c89bcf70ccc2,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,12416
+7548fe7d7e82b05db33e23be022ad7cb,Enterprise,Government,Federal/Central Government,BRAZIL,56323
+b98b94a5aa274e22fb139bfe55752de6,Enterprise,Government,Federal/Central Government,CHINA,7833
+f17474748ab0ea15a3700f14fd3f1d5d,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,826981
+943933dac012632359128ba632d50db5,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,1312
+a75c4f21537888e27a5e5e21d1a80791,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,61036
+589dcaaa9a97fc2d694f1f3a2e20f7f9,Enterprise,Manufacturing,Discrete Manufacturing,INDIA,4221
+8c79efcb9f4fd2069686971e05c34d94,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,158866
+158a057c6bb0abf2db3b1326d75f9ba2,Commercial,Wholesale/Distribution,Wholesale/Distribution,GERMANY,20377
+803d2d3cdfefc2d10e3f8795ac569c14,Enterprise,Wholesale/Distribution,Wholesale/Distribution,GERMANY,13878
+efa35bd3342e60e1175b5c51f343e44c,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED KINGDOM,128327
+7202060c18e54370f0f02b0559aa22db,Commercial,Wholesale/Distribution,Wholesale/Distribution,CANADA,15639
+b1ed2c5857d549515072e58a5630327a,Commercial,Technical Services,Other (Technical Services),GERMANY,675100
+0714dd3b472f4bd24e311e491817ab06,Enterprise,Wholesale/Distribution,Wholesale/Distribution,JAPAN,73024
+2e3bc9885de1413506ea435e8a820c4a,Commercial,Professional Services,Other (Professional Services),UNITED STATES,4289
+6f4ada3ff3ae6ae96cdad53d9a371df4,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,2543
+2b19e2026afa4b6634dc8c3dede6f4b6,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,1329028
+86c26a15a83e5217b6939a06c076df34,Enterprise,Government,Federal/Central Government,UNITED STATES,573110
+8da4046c7819453da01d75273d7b5b55,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,55183
+2c0623222ffd006510c9812a34f2e66b,Commercial,Professional Services,Real Estate,UNITED STATES,367206
+f7f878ea66625fbe9e1946b8dcbcf439,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,MEXICO,23923
+9a57656633d17d72827aabb8d552032c,Enterprise,Government,Federal/Central Government,CANADA,4532
+507c3eaab905da49836999dbe7b52f09,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,40478
+8fa971d1adf159d30f9d832fb540f628,Commercial,Professional Services,Real Estate,FRANCE,24302
+435ecd27b2b6bfc8cbe6aa0b479b43f1,Commercial,Manufacturing,Consumer Products Manufacturing,GERMANY,77564
+6400b6e324d8e311ba1589bb7331f348,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,4689
+e6dfcbe20ac9572aa2d66e000dff3d3e,Enterprise,Professional Services,Other (Professional Services),MEXICO,497015
+abfc66912cfb1c19e527380733c026be,Commercial,Health Care,Providers,UNITED STATES,11087
+de7be9006c34defdb6febf1c80f04e2e,Enterprise,Government,Federal/Central Government,UNITED STATES,204798
+3833b97de4eb90277d0182ae3db30a8c,Commercial,Technical Services,Other (Technical Services),UNITED STATES,49145
+8dbfee49b0a3bdfe6ced91bc1d44d6ca,Commercial,Technical Services,Other (Technical Services),UNITED KINGDOM,97068
+99725e172a4e4623feb7f463e0836e75,Enterprise,Manufacturing,Consumer Products Manufacturing,JAPAN,4942
+a585b10f028d7dcf6595596cafb8f43b,Commercial,Technical Services,Other (Technical Services),UNITED STATES,105115
+e059d6e700c5c8833eb9458a02724171,Commercial,Manufacturing,Discrete Manufacturing,UNITED KINGDOM,2363
+3f77692ddcc211ea8a009307f9fbfdaf,Commercial,Manufacturing,Consumer Products Manufacturing,INDIA,5511
+f1b6f7cbd22ac03f7aca13b794e8ff3c,Commercial,Manufacturing,Consumer Products Manufacturing,UNITED STATES,12165
+87a340e5c5bba522de4470e1f27fabd2,Commercial,Technical Services,Other (Technical Services),GERMANY,77201
+065beb7866269344c1a287fc86877791,Enterprise,Health Care,Providers,UNITED STATES,59023
+fbd3afa80f006dc6a9d46cfdfadf7553,Commercial,Professional Services,Other (Professional Services),UNITED STATES,92980
+f734ae7423bf657eb908399e353f45a7,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,30832
+a4d12ccedc04b7a38fc845f0146f8199,Commercial,Manufacturing,Discrete Manufacturing,AUSTRALIA,201602
+ad4f7824885f5b43188b5f86b356da1d,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",ITALY,6524
+7d793a8765047dacaf824b1491837fc4,Commercial,Technical Services,Other (Technical Services),UNITED STATES,5129
+050cbf43d794b35680ceb5ac1e91f5a7,Commercial,Government,Federal/Central Government,GERMANY,474058
+d06fbc6710ff3dcd4ffb4a1b001584d4,Enterprise,Government,Federal/Central Government,CHINA,36602
+fb83728e0c95f6af1e4c8cc79c38d8a6,Commercial,Technical Services,Other (Technical Services),UNITED STATES,51735
+20e0b6bf241039bd1d81c2f6628fe79f,Commercial,Professional Services,Membership organizations,GERMANY,55677
+a9c48fea51b0fd5af07cb18d232ecd9a,Commercial,Professional Services,Construction/Engineering,UNITED STATES,1599
+b8ad4c5a7d12734fd140d880db118bfc,Commercial,Professional Services,Consulting Non-Technical,UNITED STATES,30953
+48c753e6ac6ab10ddb8b079e15a33b62,Enterprise,Government,Federal/Central Government,UNITED STATES,131110
+59daeb5072ba2f4021f522c8b7d97f21,Commercial,Technical Services,Other (Technical Services),UNITED KINGDOM,319563
+f7db8b90e530d3b3d822e2672565a164,Enterprise,Government,Federal/Central Government,UNITED STATES,2031
+7db245a0be16572d2c52ba96b6b40d8d,Enterprise,Government,Federal/Central Government,JAPAN,72053
+8a60d924e35a8fee2f6c9c9ab0323c31,Commercial,Technical Services,Other (Technical Services),JAPAN,10870
+d84af70d7240ad02c2966807af796249,Enterprise,Professional Services,Real Estate,UNITED KINGDOM,15557
+e0f8c51a90d6f6d9c1434f1b92a76ab3,Enterprise,Government,Federal/Central Government,UNITED STATES,195063
+50d1db4459af6c2c654b73bcacc4f7ab,Enterprise,Retail,Other (Retail),UNITED STATES,17611
+00c9dd4fec251e8b6eccc412edca9a3a,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,10903
+8a01abd10c2d85715263390208228891,Commercial,Manufacturing,Discrete Manufacturing,UNITED KINGDOM,34115
+fecd9612a5b6b3343c7fcd205641c797,Commercial,Professional Services,Consulting Non-Technical,GERMANY,81633
+09557dbadde328e54f9d067ec92e0f96,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,10285
+ee3ae5752198712b7ee36702da53c8be,Enterprise,Government,Federal/Central Government,UNITED STATES,280663
+02c6e3443b4b72ec16e7f0ff2f7b34b8,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,8422
+9d0acb8eec29f546a93749bdb19b29c3,Enterprise,Government,Federal/Central Government,UNITED STATES,7272
+0725c2021adf9b5e38177a752eaf549a,Enterprise,Technical Services,Other (Technical Services),FRANCE,330121
+b9a53b8ae2e9c0cf735ec03edea0db9d,Commercial,Manufacturing,Hi-tech/Computers Manufacturing,AUSTRALIA,6677
+f606c10c2c6cb93684181974860093b7,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED KINGDOM,17368
+5132737076b2481a1c3e64d5d0f93533,Enterprise,Government,Federal/Central Government,MEXICO,202813
+78bf2b23797c6040bd622e642e07bc25,Enterprise,Technical Services,Other (Technical Services),FRANCE,12246
+ef86757d27cba7705bcb016387f77f97,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,12170
+730a9468d697e9709c256bbabfb3b814,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,181095
+b7f47817f59f3816bca6293c8ad660e5,Enterprise,Government,Federal/Central Government,CHINA,29548
+c872f596f7c8086b5b8cd241a0ce82a0,Enterprise,Manufacturing,Discrete Manufacturing,AUSTRALIA,455325
+a7048d7ca400d7a226998b6d66380acc,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",MEXICO,15467
+43e8e567bfdb0e99f6505fe4fe10ba8b,Enterprise,Retail,Other (Retail),INDIA,4064
+b1c51c0f10ef21df0872b1701bffcbe3,Enterprise,Government,Federal/Central Government,JAPAN,178354
+27f7d60209381f54752739a7333fed07,Enterprise,Health Care,Providers,UNITED STATES,5111
+caa575b3ad9c1ea4170f55db04647a44,Enterprise,Government,Federal/Central Government,CHINA,24056
+3f2eb7997744fb9b2cbf58f9f9002f4f,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,13753
+283086c095fb058d39ca70b81ef312a8,Enterprise,Government,Federal/Central Government,MEXICO,1781
+df7beb94774e9b2f8f37b247327e706c,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,19288
+799ad1e019aa9412866f1ca43517a5bd,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,161002
+ef911473cd4d7317122568a4a9ea6aa8,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,GERMANY,17420
+2773d01f8006634e823882b00c6822c2,Enterprise,Manufacturing,Consumer Products Manufacturing,FRANCE,12149
+0e30ca7283f84ebd94a6e3428e136aed,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,40768
+45f08228ac1d939da6e6bb9ffe3b2a28,Enterprise,Technical Services,Other (Technical Services),JAPAN,5185
+f2f64b99d97e86f929435fc355c979a4,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,129460
+9e4e801d3da61cf0e0cdb1f62d39d175,Enterprise,Government,Federal/Central Government,CANADA,33383
+bba4e3d9c963f8c184a579b9b4a12835,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,3302
+d4e44da56ee771d508e0397e711d342e,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",INDIA,12438800
+f5526b7089ba1ce04e387f1a8cfddb76,Enterprise,Manufacturing,Consumer Products Manufacturing,AUSTRALIA,7224
+3b3c3be4295ad7c76fd2f0963907fbd8,Commercial,Retail,Other (Retail),ITALY,20842
+417c411c970df144b3ddaa9b3e447cfd,Commercial,Wholesale/Distribution,Wholesale/Distribution,ITALY,21580
+740ddf5e48fb340dd01f4c84581f5823,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,100477
+701103849c70922628c285cd774f1879,Commercial,Health Care,Providers,GERMANY,21893
+f78cb79b607a888bba7f505a0f36f34b,Commercial,Professional Services,Real Estate,UNITED STATES,15832
+d64b37bc4d34f2fcc8bcdb1890cc2176,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,1665
+cd6b911c9e93960e8e1cc4467e9ef71c,Commercial,Professional Services,Membership organizations,UNITED KINGDOM,2540
+b59458765f103a1a80c4d95ee42cfdee,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,138363
+1d03f7fe8cd994a0b761d1b630d8d224,Commercial,Professional Services,Construction/Engineering,ITALY,280409
+ef1b07719aa767b13c541459cc5e7c16,Enterprise,Health Care,Providers,UNITED STATES,31494
+3014cbdb30c17a3dd3c048e4bd025c05,Enterprise,Government,Federal/Central Government,CHINA,8424
+88817e339e67462911596d218e85abf0,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,119179
+89469e52883eec3d44ba7d4e95167563,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,1392
+020aa748e440eb6e85d5fc4be0506724,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,2197
+9def07a869637f5dbfa1b09eede79638,Commercial,Manufacturing,Discrete Manufacturing,UNITED STATES,138197
+b0ce4cdc299d1b96b932e856fdf04a3b,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,129771
+dc6939265eb811f0c864eed799386149,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,280477
+421d05ff476401b2faf3a5cccd755ec7,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,57951
+5834dc174b1cbc96cd9f99c50d4c155a,Commercial,Manufacturing,Discrete Manufacturing,GERMANY,365656
+5592e8e9d580949915f521827f474065,Commercial,Retail,Other (Retail),UNITED STATES,12569
+ad71d6ca0e07ccdf2b350ad8014ef9ef,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,5855
+798217efd2379a1894cedd2cfe77f57c,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,141549
+65918f9a6ec9885f87aad12652e7d68c,Commercial,Retail,Other (Retail),UNITED STATES,37025
+94c01b712db10fd3bc165096c5e7ffd4,Commercial,Retail,Other (Retail),UNITED KINGDOM,12416
+017ff3f9f80ac46815519e04b32166bf,Commercial,Professional Services,Real Estate,UNITED KINGDOM,27711
+ddce98413f2e27276ca68793bf217452,Commercial,Professional Services,Membership organizations,UNITED STATES,43100
+39ff2f75c0aa9ca1ab7c59cba36658a1,Commercial,Health Care,Providers,UNITED STATES,4456
+8429efde2136bd7ab9d481e896589835,Commercial,Manufacturing,Discrete Manufacturing,CHINA,26799
+2e5515d2b27beb1627e2e931d1d2d6e3,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,124950
+58e2f3953b450386461774e0e7246e74,Commercial,Health Care,Providers,UNITED STATES,55641
+84fa50e4f3b501b8e0310663e3d249fd,Commercial,Manufacturing,Consumer Products Manufacturing,GERMANY,22040
+4954bb993295d8be39f467cb7acacd80,Enterprise,Retail,Other (Retail),CANADA,72195
+deaa557aa2f28a46c6b330f7f3b438c3,Enterprise,Government,Federal/Central Government,ITALY,7090
+539355f2f22943076d33c646e9398e67,Commercial,Manufacturing,Discrete Manufacturing,UNITED STATES,4884
+d5b6a6663286734c87aa51eca1d3b100,Commercial,Manufacturing,Discrete Manufacturing,UNITED STATES,90474
+588086ea7ebc0ddc73bb7a3cf9d4e242,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",CHINA,3640
+e9ff4cfb41b7913476a3609573659246,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,3864
+cf11d3a611dfb0e6f64376f089f3f27b,Enterprise,Government,Federal/Central Government,CHINA,1360
+3a8834f06fb09fa756ee5e74fa924fec,Enterprise,Government,Federal/Central Government,UNITED STATES,450946
+d518ca99a6cfa851afc667b5d95e684b,Commercial,Technical Services,Other (Technical Services),CANADA,4446
+eaf10557196ea0ebab217f9a13a5ff45,Commercial,Technical Services,Other (Technical Services),UNITED KINGDOM,24506
+304e0217a881192e3809863a78323893,Commercial,Technical Services,Other (Technical Services),UNITED STATES,219291
+5539de92cce422cfc95066fd583be51b,Commercial,Professional Services,Membership organizations,UNITED STATES,9745
+df93fb42f29b8f4a9eb6cbac69a1efa7,Commercial,Wholesale/Distribution,Wholesale/Distribution,GERMANY,3674
+cad849ee74d5449210abf74a23241748,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,53719
+eb3dfe064d5d20087a8653ea898e1556,Enterprise,Retail,Other (Retail),UNITED STATES,10835
+f7a6d8b799d21fef9f780dff967a3c61,Enterprise,Retail,Other (Retail),GERMANY,10998
+1029d03473014b55e75188123dbf42b3,Enterprise,Health Care,Providers,UNITED STATES,33456
+ae84109236edaac5050ed82cec9f7111,Commercial,Manufacturing,Hi-tech/Computers Manufacturing,UNITED KINGDOM,10307
+9b243aff082589abb58d7e94a2996519,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",AUSTRALIA,5227
+e5d713c2abebea1df5257206b6c0c307,Commercial,Manufacturing,Consumer Products Manufacturing,UNITED STATES,163720
+5b1a59f00901f72e4662081c8ff01581,Commercial,Professional Services,Construction/Engineering,UNITED STATES,9323
+dea529145c4772f47c05c709e868431b,Enterprise,Government,Federal/Central Government,CHINA,21622
+9616be431fd149f3d28fab0000d5e0c6,Enterprise,Government,Federal/Central Government,UNITED STATES,16417
+da333a032118f6a84dae5c64d0eae037,Enterprise,Retail,Other (Retail),UNITED STATES,319006
+93179e7dc0c3787695ce858d40aba19f,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED KINGDOM,8482
+630f3046325c877984a00efbb4a3846d,Enterprise,Health Care,Providers,UNITED STATES,24116
+4a7c25c90f6ffea45739666b37e8ac23,Enterprise,Wholesale/Distribution,Wholesale/Distribution,CHINA,279871
+a3c489e23481662e64ae76141f98bf83,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",FRANCE,2169518
+269a5339cdf1422e35cc5a7bdc585709,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,44292
+e6551e2b0c9405e3406fdb5afb98df71,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,470368
+13d59764d89ab029b2eb5750710aae31,Enterprise,Government,Federal/Central Government,JAPAN,43488
+7502d003ca83aa8076a00b615bff9c5b,Enterprise,Health Care,Providers,UNITED STATES,7238
+7642ce817779bdc60505ef469edce174,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,6901
+32fe9dc4284d3dc33df95e0f83c1d6fc,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,269630
+4d0eaa1cccca98a9c396fa48b3f07b36,Enterprise,Technical Services,Other (Technical Services),UNITED KINGDOM,4113
+b691d845c964568bfe66d307b535c4be,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,2656
+635a07ffdc3a3a6756c5461cd672b1dd,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,7319
+47afce4f054adb7a9857fce5f0bfd495,Enterprise,Health Care,Providers,UNITED STATES,662291
+92124c5c543b43269b24e36a459c89c5,Enterprise,Technical Services,Other (Technical Services),GERMANY,28804
+2b083769a91217b2d211b713324b7e59,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,3371
+135bd247d6bf5eea2b4aee69224153a6,Enterprise,Government,Federal/Central Government,CHINA,4562
+d298c66117c90aafe9960bd3d0834c33,Enterprise,Professional Services,Consulting Non-Technical,UNITED STATES,2401
+c2bd7d61b7406b6b9122887c712af997,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,15561
+13047290801a20bce3935ec9021b4519,Enterprise,Government,Federal/Central Government,CHINA,37932
+873986f6707372f58108c94e527d86a8,Enterprise,Government,Federal/Central Government,UNITED STATES,6794
+791145a4aa8386f1cd52f44c1cb1f0b2,Enterprise,Professional Services,Other (Professional Services),CANADA,19711
+ae58edf3920aba1fb7288fe46f2bbfdb,Enterprise,Professional Services,Other (Professional Services),UNITED KINGDOM,7699
+36bedf545d27f02e325ba0033f5c368d,Enterprise,Retail,Other (Retail),UNITED STATES,182052
+0772ebb312336716ea22b24550629d93,Enterprise,Wholesale/Distribution,Wholesale/Distribution,GERMANY,34720
+e1fa49a3f583612ecd5a5f3988a75301,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,22957
+ed9cbfe6e5ea0faf88fa0947be60200b,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,2121
+0e831bef5e3fd27ffc6f0f92ec21f5d2,Enterprise,Professional Services,Other (Professional Services),CANADA,18565
+fb727a14f6b48360e4065f1ba8960207,Enterprise,Retail,Other (Retail),UNITED KINGDOM,182189
+56933749bb328af91f2a406aebeb0956,Enterprise,Government,Federal/Central Government,JAPAN,2926
+4c586ca22fcde017a06bd3b608e18788,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,9569
+6413c496ab16aadcc416fd872b7a14da,Enterprise,Manufacturing,Discrete Manufacturing,CHINA,3351
+d6f4b5568ef1741ab745aefa9dba9a86,Commercial,Professional Services,Real Estate,AUSTRALIA,8339
+d84d2524533cca16f1dcf7d66d91ccba,Commercial,Retail,Other (Retail),UNITED STATES,18914
+1020457a113fa2c1af49c9e29b231ddb,Commercial,Wholesale/Distribution,Wholesale/Distribution,FRANCE,37960
+aab4aa57340d852edefc80dbb5b4b312,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,160649
+75d5f8c4a22b4583ab0cc48065f3254e,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,14680
+fbbf690bcb4c8d2d7bdc3926b1f2030d,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",CANADA,25049
+f5a6608246ed28e19165f45b6a8b38bc,Commercial,Technical Services,Other (Technical Services),BRAZIL,745701
+7712243ab61308779aec210ec91f4d63,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,72449
+0d4af6d352f21c5ca8e177485df731b1,Enterprise,Health Care,Providers,CANADA,22761
+f9bad8335f3cc15241be66e935fc7275,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,518579
+4b08e25353c3a088320a7df293740f02,Commercial,Professional Services,Consulting Non-Technical,GERMANY,4035
+0834c8cd126e3f33735559b4d6289a9a,Enterprise,Retail,Other (Retail),AUSTRALIA,6605
+d3c350940dd52f96393361733225c69b,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,34009
+729363f30651e5088ee38676e6ede78b,Commercial,Manufacturing,Consumer Products Manufacturing,GERMANY,1472
+ed40398b89e8ddc73b0db6c31e84802e,Commercial,Professional Services,Real Estate,UNITED STATES,19748
+efb42887869d3254f4a2593934a9592d,Commercial,Retail,Other (Retail),UNITED STATES,7626
+f6f75b52642b9fdb11a9fe0a39219598,Commercial,Retail,Other (Retail),UNITED STATES,22432
+dabb48d51d13f25419eb23a49a2109da,Commercial,Technical Services,Other (Technical Services),AUSTRALIA,558810
+303d73b9af15fae6237bccac9f541800,Enterprise,Government,Federal/Central Government,UNITED STATES,38083
+b778d241b01045b7b54c6a19417c2498,Commercial,Health Care,Providers,UNITED STATES,93571
+9512dd49675bef31707bf93dca9178d1,Commercial,Professional Services,Other (Professional Services),UNITED STATES,61744
+0c0ca3f40b508c8f599ad57aeb66f339,Commercial,Professional Services,Other (Professional Services),UNITED STATES,60407
+ac89a1e8a3073718299cb2a55dc3940b,Commercial,Manufacturing,Consumer Products Manufacturing,UNITED STATES,12896
+ed4c79f3afee8136a0b0e03f73ffd7b0,Commercial,Professional Services,Consulting Non-Technical,UNITED STATES,23984
+0d4f15da0bf8243ef5625fbbf506e4f0,Enterprise,Government,Federal/Central Government,CHINA,20421
+85d566ea29db27c504058d21bbfcf14c,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,12521
+07ec8c29c820ad563da042b5d6e0b8e7,Enterprise,Technical Services,Other (Technical Services),UNITED KINGDOM,36812
+d517eb79bcc1caebdbc35bb94f787132,Commercial,Technical Services,Other (Technical Services),GERMANY,22422
+31813bdd2f781203d25fa4ac817eff47,Commercial,Professional Services,Other (Professional Services),UNITED STATES,281273
+53759bf4195c7e32a280a5c357930c05,Commercial,Wholesale/Distribution,Wholesale/Distribution,INDIA,22353
+add7073dfdd8455d145c1064bf388869,Enterprise,Professional Services,Construction/Engineering,AUSTRALIA,20894
+944339939ba8af3b43200f2c08010c7c,Commercial,Professional Services,Membership organizations,UNITED STATES,10225
+cf5354b8bed5ac5103c212a30b70d0e7,Commercial,Technical Services,Other (Technical Services),UNITED STATES,29767
+1fb5f66f55dcdb2c476718e9ff268ee2,Commercial,Technical Services,Other (Technical Services),UNITED KINGDOM,51032
+7ec973a2a3890e262bdf5c66e60f901e,Commercial,Technical Services,Other (Technical Services),FRANCE,21546
+72465b51daedf890437cf8652f9b27ef,Enterprise,Retail,Other (Retail),UNITED STATES,149872
+2a5a7e7a55c4571c4ce3d4884833c812,Commercial,Professional Services,Consulting Non-Technical,GERMANY,327712
+cecabb2bdb12d1fdc0b6f1a9305b3658,Enterprise,Health Care,Providers,UNITED STATES,1943
+92c99ea338ed31e368898ae3faddd0e3,Enterprise,Professional Services,Membership organizations,GERMANY,41402
+677756deac17c915a774a13e2f4a54a9,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,CANADA,36139
+e1101551390424c9e551253c515ffc14,Commercial,Wholesale/Distribution,Wholesale/Distribution,GERMANY,6346
+b4051c0a479a3d735e74140a9d8875a3,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",ITALY,1306
+947d14898cdd4ec0d904718fa5e2ec48,Enterprise,Manufacturing,Consumer Products Manufacturing,CHINA,154874
+97503bf43b8cc69193953319122cddae,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,26931
+771cb8efae1d42ca3828b88a7869eecc,Enterprise,Health Care,Providers,GERMANY,15800
+b8a531ac78e8f9aa78f8ef2dd4af114c,Enterprise,Government,Federal/Central Government,CANADA,23043
+b0a445389ff1fbee1d1368ecec5477c5,Enterprise,Retail,Other (Retail),GERMANY,2573
+238d382bc72be033f91828f9b859da30,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",ITALY,21582
+c187ddfe365ed8b73cec45685941924c,Enterprise,Professional Services,Real Estate,AUSTRALIA,81986
+20f6b266f137fed3d2487ceb2a9d95f6,Enterprise,Professional Services,Real Estate,UNITED STATES,25703
+4a7efe8d79d054141263d36c17cc405e,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,10480
+becdfe5bdcff1e8ba51d644efd8004c8,Enterprise,Government,Federal/Central Government,UNITED STATES,36637
+c5cfe912338ea50cd94093d81f8265d2,Enterprise,Retail,Other (Retail),JAPAN,43759
+86a22890a96afdce0966e5f830de3abf,Enterprise,Government,Federal/Central Government,CHINA,681747
+8d89dd67aab0c79fbcfa03c1633fbd2f,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,587580
+ee561cb5664d8cd145d0ed0c00754831,Enterprise,Health Care,Providers,UNITED STATES,10482
+dc05a54ccfbf936599e5ef839c6e251c,Enterprise,Technical Services,Other (Technical Services),UNITED KINGDOM,84857
+322b17407370758b2196c12c894debec,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,31321
+a0b24b682dfc362d39458839a021799d,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,1184
+5451548fab5b6acb804659f27759598f,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,79955
+a1b220421b6049de25cb9efbbae80bb7,Enterprise,Wholesale/Distribution,Wholesale/Distribution,CHINA,1904
+0fe37ae6ad74e30c94343ec7ef19ee74,Enterprise,Government,Federal/Central Government,GERMANY,4793
+780a0512a1c09ef013e26aecc547f7f5,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,AUSTRALIA,72406
+25a73f1aab0da3574a18358c48e8b3bb,Enterprise,Health Care,Providers,UNITED STATES,15225
+31f5e3c780215779128565a36ce60f56,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,333596
+9d1d23be2cfcde44b3e15b2e0745dd04,Enterprise,Professional Services,Other (Professional Services),FRANCE,8145
+a2a0cca806b2b5d373837a79c47a62e9,Enterprise,Technical Services,Other (Technical Services),JAPAN,70393
+2171c1e7c3bd3ca9ad6aec733ec1415e,Enterprise,Health Care,Providers,UNITED STATES,1034
+c0a93a909df50a757813424457720ae0,Enterprise,Technical Services,Other (Technical Services),AUSTRALIA,17222
+9afcf4e007620f0d6c2e6a54b5fb3c59,Enterprise,Government,Federal/Central Government,CHINA,unknown
+f0bebbbb621f960e99244e0421155b1f,Commercial,Wholesale/Distribution,Wholesale/Distribution,MEXICO,50822
+e376065ecc6ceac6f4daa2697f74c5be,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,106463
+5771c0da59afb8874aab9893d0b78cb1,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",FRANCE,5851
+b68ecc229b856bb6782cb7cfeda93a66,Commercial,Retail,Other (Retail),UNITED STATES,28093
+d21d7f096ece74b5d10907a5eadb86f9,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",AUSTRALIA,164755
+799f0114fadae3ce5c4b55a4baaaf323,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,4005
+132a3d4fc7890030c9b752ae704879db,Enterprise,Professional Services,Consulting Non-Technical,UNITED STATES,101039
+8cf11ab787a4dfb02acf123104b427b9,Enterprise,Technical Services,Other (Technical Services),INDIA,49091
+13aff91578657291e8a2b5573f69a7ad,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,AUSTRALIA,43029
+30dbf482279ce030a8b7bb9a73a52a9a,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,34020
+3f6ce56c3ec7ea8b70befcab5a12e555,Commercial,Technical Services,Other (Technical Services),UNITED STATES,38361
+7f89f28a50db06514d0a8fa6173d422a,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,163710
+2b67082a98ac29cbe768355119d77c70,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,10964
+f7e69c49983eebdc8baf0c471dcab531,Commercial,Professional Services,Other (Professional Services),UNITED STATES,108593
+3d6cb6567dc44a2b3331c32d85b84fda,Enterprise,Retail,Other (Retail),UNITED STATES,21753
+b870b38cd119aa266ed6b6c4c0eda8ed,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,11354
+df96418e2d73ced80b5c3069c9358117,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",GERMANY,304413
+d1fba21960f266ea55ea0e4e678edd71,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,22739
+917c6f77d6d5e27d0edf687a7f924a1a,Enterprise,Professional Services,Membership organizations,UNITED STATES,2395
+bcd0ed7bd7149e0b66657872abfc26b8,Commercial,Professional Services,Real Estate,ITALY,275022
+9d855af9f42eb74bd10f34f3ae6d076d,Enterprise,Wholesale/Distribution,Wholesale/Distribution,INDIA,91932
+b378c1f479ec1262a7d0fb90a34aa334,Commercial,Professional Services,Real Estate,AUSTRALIA,17116
+2776730143d33e4fc27dc9ad2010e013,Commercial,Professional Services,Construction/Engineering,AUSTRALIA,6498
+16465f691ba4a5d010ff81f6d17979aa,Commercial,Wholesale/Distribution,Wholesale/Distribution,MEXICO,34531
+561b4545b7c7c6e0dd53d36cd1831076,Commercial,Technical Services,Other (Technical Services),AUSTRALIA,5612
+f07bc1c7c8f1d1a9e693aa1be1f54ef0,Enterprise,Professional Services,Consulting Non-Technical,UNITED STATES,10544
+994cd20d68ebee0d70c31225b7604c06,Enterprise,Government,Federal/Central Government,CHINA,62244
+1ad01fc82dedf7964f1870c540e02266,Commercial,Manufacturing,Consumer Products Manufacturing,UNITED STATES,72324
+f07a596fe483184ba9758c5ac7bdc973,Commercial,Technical Services,Other (Technical Services),UNITED STATES,17503
+af24641b46a4e980048ebbc8d9d4c36b,Commercial,Professional Services,Other (Professional Services),UNITED STATES,9139
+b80116f0cb380fd615268f607a4b3fb1,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,4570
+7e575bf8e957ed6fcfb7a52e3ea0cb44,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,4398
+4365df60943c303af2dba28627b3d174,Commercial,Retail,Other (Retail),UNITED STATES,28536
+f539a49c1476087203db9de58a2ed74b,Commercial,Professional Services,Consulting Non-Technical,FRANCE,138508
+acce92b935793ff110e11c8799a45d1e,Commercial,Technical Services,Other (Technical Services),UNITED STATES,4286
+b5d6b0352617d3b896f37a802c48d9ca,Enterprise,Government,Federal/Central Government,CHINA,15951
+a39785288b784ca3142bc6b3336f51b3,Enterprise,Government,Federal/Central Government,UNITED STATES,19389
+8e13fd0c36d3f809f40fe93e79381d53,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",AUSTRALIA,10972
+2305da659bcead06e5c0082970ffe8da,Enterprise,Government,Federal/Central Government,UNITED STATES,1946
+bd1b1b75c2e8f46281d784f9daa69d55,Commercial,Manufacturing,Consumer Products Manufacturing,CANADA,3108
+c27d4d64f2d4178c6cea1ba47c43ac9a,Enterprise,Professional Services,Other (Professional Services),GERMANY,41389
+adf53d83fa0db9b6c50a6670fe1f1e1c,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",GERMANY,1189490
+1460e5fd42ec3d76cbccce96520921ed,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED KINGDOM,1224
+685cb87d47805dcf65a66a2d40df019c,Commercial,Professional Services,Construction/Engineering,UNITED STATES,6594
+46e93ef841743d6caa11c0dac8392f72,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,30047
+8e2767c117c3672e3efcf5664140057c,Enterprise,Government,Federal/Central Government,CHINA,18401
+e9240c2d7c7059d7b471275074c5ee4e,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,256985
+c0ae88d958dcd84c1e9217c9721f0e6f,Enterprise,Health Care,Providers,UNITED STATES,7443
+a3caae68642528122da85f61c6d44d75,Enterprise,Government,Federal/Central Government,INDIA,65700
+1415e13d49313b8d43f8805413a8d5de,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",BRAZIL,332840
+c336ec5d88aeb675288406b32840721a,Enterprise,Technical Services,Other (Technical Services),AUSTRALIA,13682
+50eb6c5faecc427f4ebcbb49232fcbf0,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED KINGDOM,52064
+0e01f019f532295989a44e4a16e6f275,Commercial,Retail,Other (Retail),UNITED STATES,26967
+efd86749020d52c673f248e0738c093d,Enterprise,Retail,Other (Retail),UNITED STATES,56194
+18deb3ad66a0ae351f18c3842d7b8494,Enterprise,Government,Federal/Central Government,JAPAN,1710
+5626802bbf69d4c888cc1acb2ecb8e7f,Enterprise,Manufacturing,Consumer Products Manufacturing,CHINA,4181
+18b73a7f76896971bd274d5e26338a8a,Commercial,Health Care,Providers,UNITED STATES,30417
+e8bad9e172d6a5f3bd16a135759f342d,Enterprise,Retail,Other (Retail),CHINA,2490
+8aedae2ce743959f3a8bb1ae6fc1da8d,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,CHINA,3178
+42e7ebdd66a42ca94bc7f789da8a8af7,Enterprise,Health Care,Providers,UNITED STATES,9881
+cc3dbb93707eacc41143e2fd50a0a34b,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,11982
+e9320c8a00868ed9dc250656d8bc5045,Enterprise,Retail,Other (Retail),UNITED KINGDOM,15524
+76c510e3ec40ecdd9f9976b79955d0b2,Enterprise,Retail,Other (Retail),FRANCE,58091
+dab697bd9cd88eb0e3b40d7f0e78bfbd,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,7665
+506d93ffe05b995080f5dc4243ddcad3,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,43433
+c5bf86c188bdb87e0b766a07eca60e3e,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,14486
+aca7fe0a429b5746dbb6f75087b0f22f,Enterprise,Manufacturing,Consumer Products Manufacturing,JAPAN,2989
+981ae4434b9ad5095ca3e896c4b0bcf8,Enterprise,Government,Federal/Central Government,UNITED STATES,5731
+9fa392212f1ad5d9e1c17a7b5ecc3b80,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,21482
+6063e284c896d13771d0973afd38093e,Enterprise,Government,Federal/Central Government,CHINA,unknown
+dc3f9953c6be8cc11c77650ab8113fe1,Commercial,Professional Services,Consulting Non-Technical,UNITED STATES,40780
+840d9922ef16a391308c382ab322073b,Commercial,Wholesale/Distribution,Wholesale/Distribution,GERMANY,26045
+63921608df9cf9209e5b3d3a8a407e7e,Commercial,Professional Services,Other (Professional Services),UNITED STATES,8961
+bca49f9938dbd466fd0cc34638478243,Commercial,Retail,Other (Retail),UNITED STATES,2829
+7ed8d43a0b020eb5d2c1d0deac81e0ee,Enterprise,Health Care,Providers,CANADA,1776
+16398e827ed2b466f1522b523c5dfe5e,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,49051
+cfd09a90e64a5a7166d0dc0c8d3c6b97,Enterprise,Professional Services,Real Estate,UNITED STATES,2209181
+b874da10aaf38bedc282ed3e3987f9ce,Enterprise,Wholesale/Distribution,Wholesale/Distribution,AUSTRALIA,300413
+33c6698489101391fa17a3f7a1270880,Enterprise,Retail,Other (Retail),UNITED STATES,13472
+65d75d27de35cb19391041adb61d69d8,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,190263
+916cb66a1e033d232cb312757326a52b,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,23680
+eefbe310d8343adc9f420b9dc4dc8084,Commercial,Technical Services,Other (Technical Services),UNITED STATES,62762
+f7b2f9a7d359d00bbc8a3b04edd1958a,Commercial,Retail,Other (Retail),AUSTRALIA,35634
+1bffe2f424dad21e0388b7fd48c971e4,Enterprise,Health Care,Providers,UNITED STATES,3754
+af65335367a351d47961acb3aeba4016,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,4141
+9537b0692d28fcec35b941c32aa84dbc,Commercial,Technical Services,Other (Technical Services),UNITED STATES,206293
+56dde2d4bded5df0248148c582f7b74a,Commercial,Health Care,Providers,UNITED STATES,166824
+bbf5b57b70244619be35d38c1ec22f89,Enterprise,Technical Services,Other (Technical Services),JAPAN,146768
+5dd38fc01ff6ace44d34b022d9dc54fe,Commercial,Retail,Other (Retail),UNITED STATES,6276
+7b4b837a14d318f72872c49ac82c7620,Commercial,Wholesale/Distribution,Wholesale/Distribution,MEXICO,4239
+492ec002a237c1fd13f9afdce275cde0,Commercial,Health Care,Providers,UNITED STATES,1368
+7783787d2e95e39cfe43213a59cce2c0,Commercial,Health Care,Providers,INDIA,6910
+d46890c732966165d6f8c3c35c757baa,Commercial,Technical Services,Other (Technical Services),AUSTRALIA,12888
+8d0010b069fb4031b9012b72316cb730,Commercial,Technical Services,Other (Technical Services),CANADA,13761
+bed44a2a419dee0b1d9e6075b68d73c7,Commercial,Manufacturing,Discrete Manufacturing,CANADA,3071
+2ec0df05e21da53c5eb91a10f367875a,Commercial,Technical Services,Other (Technical Services),CHINA,118517
+50002a0349e405b80f7dda92c82e9320,Commercial,Professional Services,Construction/Engineering,UNITED STATES,1613
+5453fe4ac1a50f6dac26993382ccf1f1,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,4722
+de888eda4b91aecd8c558a1e39e0349a,Enterprise,Government,Federal/Central Government,JAPAN,6090
+1d0c65f0e33b99c6aab51c776aa29912,Commercial,Technical Services,Other (Technical Services),JAPAN,2774
+186167180a99cbf300da89f4f0a677f4,Commercial,Professional Services,Membership organizations,UNITED STATES,467449
+0b58e16f426a394eb61c15b85ddc34e5,Enterprise,Government,Federal/Central Government,GERMANY,35452
+77770d94199fbb02e4430adb28caaec0,Commercial,Professional Services,Consulting Non-Technical,UNITED STATES,23424
+7bf8df1a52728095918871f4656ec74f,Commercial,Professional Services,Other (Professional Services),UNITED STATES,21333
+3cf64848ff587773eb3c62fccce1f64c,Commercial,Technical Services,Other (Technical Services),UNITED STATES,92646
+de648a25f917e81302a758ea9cde2f6f,Commercial,Professional Services,Consulting Non-Technical,UNITED STATES,80037
+a87b82af367855db24df32083638c17b,Commercial,Technical Services,Other (Technical Services),UNITED STATES,1300
+255d3dcea65b86623cc0a8442b935528,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",AUSTRALIA,4245
+3aa8dd1257a9f1accd8387a57dbd0375,Commercial,Technical Services,Other (Technical Services),UNITED KINGDOM,84586
+8c3112e2bb5dec3f551dc48994ac516d,Enterprise,Technical Services,Other (Technical Services),UNITED KINGDOM,128721
+fa2862598ede0032c6f7bc20ecafb98d,Commercial,Technical Services,Other (Technical Services),UNITED STATES,4037
+952692e3762199813de551f130e4ae67,Enterprise,Manufacturing,Discrete Manufacturing,MEXICO,68801
+323d8ad900b24178aa446315353b100b,Commercial,Wholesale/Distribution,Wholesale/Distribution,FRANCE,703916
+fd3713592d716c930b4c18744d1cc8f6,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",AUSTRALIA,80522
+5a1b1e90afa190cfdc0202455efbb386,Enterprise,Government,Federal/Central Government,CHINA,1500
+4a01740dc222404458e16a2bf9c24669,Enterprise,Government,Federal/Central Government,UNITED STATES,13756
+97f1c4aebd82fb2e9261c2005eccf8b9,Enterprise,Manufacturing,Discrete Manufacturing,INDIA,1831
+7594492b4748503494605fae3db8b274,Enterprise,Government,Federal/Central Government,CHINA,1961
+facf399ede33520e47afaa3939be3bc7,Enterprise,Health Care,Providers,UNITED STATES,127323
+e5f3256951c53fc8ebbf7a7c66a722ca,Enterprise,Retail,Other (Retail),JAPAN,64014
+628eeea16114308fb52725df0a5ae4c6,Enterprise,Retail,Other (Retail),UNITED STATES,462879
+ef3e8676653bb252c19620beec1c6d4f,Commercial,Health Care,Providers,UNITED STATES,20567
+5d61ba6f805159ba378c82d0b47199db,Enterprise,Technical Services,Other (Technical Services),FRANCE,1743
+341b98d404c7672b87970ac1b4022313,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",JAPAN,1754
+4c414cea6a1645910a20761273cb8243,Commercial,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,216824
+b156831654d568e8c3bceebe38381f01,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,12545
+274c06a69e9bfbae247e41de15b68ff6,Enterprise,Retail,Other (Retail),MEXICO,13115
+cbf8f6a2ebcb23fc8bd79aa9d8437c55,Enterprise,Professional Services,Construction/Engineering,UNITED STATES,4302
+11ff4cf0269514d42251394c6e60516c,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,5715
+de7e9d538534f3274f26de8110f256fb,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,839216
+424623301a87786f4b4d2f4ace04642e,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,6999
+92141a248222202ddf1fbd70da2a7d8d,Commercial,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,13584
+03946103c64c0b078effec6d5eff35df,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,129169
+c69278f3b215e4105c2d6fd6ee98ce94,Enterprise,Professional Services,Construction/Engineering,UNITED STATES,1208
+166b6974c6ffa1dc6475ef882f58cd40,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,JAPAN,42639
+bf33e1c4a8adcf1353230779c5a45583,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,43891
+90ff2a1bf3e20cfe8327b31c3763cddf,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",ITALY,348426
+bbe0a5000c2e0a20e7c108ce5a528c76,Enterprise,Government,Federal/Central Government,UNITED STATES,52814
+aa39145a35847a75178e45c57127bf5f,Commercial,Professional Services,Consulting Non-Technical,UNITED STATES,3131
+27561de17d118f03f407ed55c4d1d5e5,Enterprise,Manufacturing,Discrete Manufacturing,AUSTRALIA,181835
+c8a0fabaef5a98cfe17207db6356b8bb,Enterprise,Professional Services,Other (Professional Services),FRANCE,6019
+cd1527afa297ef9a8ed010e84edacca8,Enterprise,Government,Federal/Central Government,CHINA,1554
+8b9ec108e7be75aaa515bb568958871b,Enterprise,Health Care,Providers,UNITED STATES,6739
+6e62fb6069f6126e465455fa724a1b4d,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED KINGDOM,5721
+dee970407799f881912546dd827ccfbe,Commercial,Retail,Other (Retail),UNITED STATES,40272
+74bebcd63d9537cf91ae5a019aa5fda5,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,5189
+87d9109856847f22b5aa066b663c4669,Enterprise,Professional Services,Real Estate,UNITED STATES,5250
+0df0be8db409ce9428c34d1a1e210a20,Commercial,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,3849
+210516262bb9be5eeb10f2fee9a04ee7,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",JAPAN,21267
+985cd7519f73897719cd522c807e87c5,Commercial,Professional Services,Real Estate,GERMANY,3488
+f4fde8d7b7c0ae92d9c71adf200ae008,Enterprise,Manufacturing,Discrete Manufacturing,UNITED STATES,113568
+bfa5f3434a1dd9968ee06c073371b510,Commercial,Manufacturing,Consumer Products Manufacturing,UNITED STATES,76287
+a85f2eea941d098107198f57251b4b42,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED STATES,20292
+618c327f2aedfd0366e4fc32a7e11ddf,Enterprise,Manufacturing,Consumer Products Manufacturing,CHINA,4835
+d69f513cbdba3cd692017436fb24420a,Commercial,Retail,Other (Retail),UNITED STATES,102724
+15adddfd8a4c1d041fa1095b8bdf11c6,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",CANADA,230807
+ff9c28ac12cf0a9020c8855d88a84a51,Commercial,Retail,Other (Retail),GERMANY,45563
+4275d4b693469d2e133fc5c777c842cc,Commercial,Professional Services,Other (Professional Services),UNITED STATES,26158
+846de0fef3db9efc9fada9c5eba88618,Enterprise,Wholesale/Distribution,Wholesale/Distribution,ITALY,548588
+0522fa5accbb8bc33be34d210f69e78d,Commercial,Professional Services,Construction/Engineering,GERMANY,117831
+d084fd894dd0bf736b1a461117ed57cc,Enterprise,Health Care,Providers,UNITED STATES,2507
+1b4a843d886b1fd9e577abc153dfc594,Enterprise,Government,Federal/Central Government,ITALY,74014
+625fd26ee4afb33989af56a96ebd775d,Commercial,Professional Services,Consulting Non-Technical,UNITED STATES,236900
+457bc61486401191e25779db855c9c6d,Enterprise,Government,Federal/Central Government,UNITED STATES,35272
+41ddc801626d9a8111523b92c5d20dbc,Commercial,Retail,Other (Retail),INDIA,96593
+f08b85e608d82dbe4037691e1a2f6b88,Enterprise,Technical Services,Other (Technical Services),CHINA,269992
+7718d08a1dad183e4498d965992e8855,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,4496
+9702c8987a8fb56e61c457facac0a92a,Commercial,Professional Services,Real Estate,CANADA,4865
+2caba7d7b599ce246bcc50719cd571e3,Commercial,Technical Services,Other (Technical Services),UNITED STATES,23197
+06ec5c4f0785eb86a94096fd749a3205,Commercial,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,19329
+16135499163b103e0425b16455cb0a0a,Enterprise,Government,Federal/Central Government,UNITED KINGDOM,5446
+902f11ab3bda9558e00102d7007c27a8,Commercial,Retail,Other (Retail),UNITED STATES,11569
+567b05737e787f97d011c51e1468f392,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",FRANCE,4340
+86c595bb82ef3f7ae99a6c4deafedb2a,Enterprise,Professional Services,Construction/Engineering,UNITED STATES,37783
+a621a07bb18ecc73467298b327099f24,Enterprise,Manufacturing,Discrete Manufacturing,UNITED KINGDOM,2644
+3f396efe5157f7893da36966c55c6e43,Commercial,Retail,Other (Retail),UNITED STATES,110187
+dbb29804d317467ada5cac8f896c6f02,Enterprise,Retail,"Consumer Services(dry cleaners,video rental,etc)",UNITED KINGDOM,82484
+f3aa89da2ea0b0b49737946c7719eecd,Enterprise,Professional Services,Other (Professional Services),UNITED KINGDOM,30595
+09a040a5d7566c1c6dd7519734e7d83d,Commercial,Professional Services,Other (Professional Services),AUSTRALIA,455040
+4284d55505b945a5df1caa397046a1db,Enterprise,Retail,Other (Retail),UNITED STATES,6116
+e96be43b101315ba0dbb643878b2f962,Enterprise,Government,Federal/Central Government,INDIA,310637
+07e75ccf987619b40d9190fda7e3093e,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,234632
+f64605e19e7eb0b6856560f9d214e67f,Enterprise,Retail,Other (Retail),UNITED STATES,387263
+4c3f5f9fbf86b85f13e19fba2a0b0814,Enterprise,Retail,Other (Retail),UNITED STATES,8859
+e47c677128e5ee18357a2ae50647ab28,Enterprise,Wholesale/Distribution,Wholesale/Distribution,GERMANY,55733
+a60a1dd89c635200c6134e5132d3342d,Enterprise,Manufacturing,Consumer Products Manufacturing,GERMANY,17490
+ad203e52087e1a21e4c6f24416ed125d,Enterprise,Professional Services,Construction/Engineering,UNITED STATES,85627
+3a6f5e15caee46fbe694efa7850f4a9f,Enterprise,Retail,Other (Retail),UNITED STATES,57226
+e9e69655aa1cfd72ea05de33194efa03,Enterprise,Manufacturing,Consumer Products Manufacturing,UNITED STATES,9218
+43e14378a3ac5a061430b53bf5cee893,Enterprise,Manufacturing,Consumer Products Manufacturing,JAPAN,7756
+c3343530d5ae78bee57c9953f2ff6f61,Enterprise,Government,Federal/Central Government,UNITED KINGDOM,138393
+6f3785edd5a17192aa2adf00bc84a8b3,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,1334
+7184ad97a306023e3cf30a3988b8c1f7,Enterprise,Retail,Other (Retail),UNITED STATES,10527
+1ba8c0dc6fa3622fe121b355e639410f,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,1103
+c882b41b327bf7cddff8a65915c682df,Enterprise,Professional Services,Other (Professional Services),UNITED STATES,26823
+6f894e7bcd7fcfb89297c2470a2e72de,Enterprise,Technical Services,Other (Technical Services),INDIA,51107
+9b1924ff670c136737e534c2d818031e,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,1048
+2b4b6ba19face66b85dec9c0c2a2e99a,Enterprise,Government,Federal/Central Government,UNITED STATES,40881
+ec04d0951149c669a9a0cc269bb37721,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,7023
+9b7f44983faf835a6c511a12b613ed91,Enterprise,Manufacturing,Hi-tech/Computers Manufacturing,UNITED STATES,786205
+19a804690589a5ad920c0c08849d01a1,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",CANADA,6612
+d35c000c7d11b35f821a73d19f8b1cfd,Enterprise,Wholesale/Distribution,Wholesale/Distribution,UNITED STATES,120630
+c72606aa120eaffadf43c3dfdf107dc9,Enterprise,Retail,Other (Retail),UNITED KINGDOM,367924
+9de88830d57dce238f445f8ac20f9182,Commercial,Health Care,Providers,UNITED STATES,1121
+7452d6674e7d9757947474de76362757,Enterprise,Government,Federal/Central Government,UNITED KINGDOM,17311
+f558b9195dfab6c222dbd5aa2a4a9b41,Enterprise,Manufacturing,Discrete Manufacturing,GERMANY,9666
+1fbfdc2cf7032365f8dc726e53127cfc,Enterprise,Retail,Other (Retail),UNITED KINGDOM,36870
+b19039326c60bd46d94652edbeac26c9,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,365300
+a7b1b47734399b427ff92a7fa5a95861,Commercial,Wholesale/Distribution,Wholesale/Distribution,JAPAN,29570954
+633d495516229b454e0d29a867b88e03,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,75300
+d3b043eb842a2b8006222382ebdfa9cf,Enterprise,Technical Services,Other (Technical Services),UNITED STATES,21798
+633136f5b3b574001b9f246cccdc2446,Enterprise,Government,Federal/Central Government,MEXICO,2168
+979220253cbdcfe0192a8b254cdabb4e,Commercial,Professional Services,Other (Professional Services),UNITED STATES,38019
+ae8c2a69eb5fcc3f25fcd6ed8692cb33,Enterprise,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,36296
+a974fb506e00be9366d5197e1be85edf,Enterprise,Government,Federal/Central Government,UNITED KINGDOM,200398
+ec16c178ebe861036131145e508d64bb,Enterprise,Health Care,Providers,UNITED KINGDOM,29390
+a4cfcf7ac1b1404fc8a0c86db34d0d6b,Commercial,Professional Services,Other (Professional Services),JAPAN,5361
+8a6648375f47822b1fb41836af3c1502,Commercial,Financial Services,"Other (Credit Card, mortgage, financing, etc.)",UNITED STATES,30137
+5863b033a244048d51172e7d602ca65c,Commercial,Health Care,Providers,UNITED STATES,5828
+df39930ddd92f3d2042718efb099c943,Commercial,Professional Services,Other (Professional Services),UNITED STATES,42040
+3fe025066b4d13b73696353151d1ecfe,Commercial,Retail,Other (Retail),UNITED STATES,133710
+631e0c8e0a8999a476a247c97fcda906,Commercial,Retail,Other (Retail),JAPAN,1871
